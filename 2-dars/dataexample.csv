@@ -1,0 +1,1001 @@
+age,income,experience,education,city,job_type,credit_score,loan_amount,employment,property_value,rooms,years_in_city,loan_status
+56,3860.0,21.0,High School,,Engineer,722.0,39239.0,,59220.0,2.0,18.0,Good
+46,,18.0,Master,Busan,Teacher,657.0,18272.0,Part-time,412647.0,7.0,26.0,Average
+32,3419.0,33.0,Master,Incheon,Engineer,687.0,27619.0,Self-employed,27642.0,1.0,21.0,Good
+60,10312.0,13.0,Bachelor,Busan,Office,542.0,10533.0,Self-employed,99971.0,4.0,9.0,Poor
+25,3142.0,3.0,PhD,Seoul,Office,622.0,40895.0,Part-time,75556.0,5.0,28.0,Poor
+38,4632.0,26.0,High School,Seoul,Business,528.0,4720.0,Self-employed,446976.0,1.0,25.0,Poor
+56,4624.0,28.0,,Incheon,Office,559.0,20267.0,Full-time,320336.0,1.0,26.0,Average
+36,3794.0,27.0,PhD,Busan,Business,666.0,16696.0,Self-employed,417597.0,3.0,11.0,Good
+40,5290.0,34.0,PhD,Seoul,Engineer,807.0,30968.0,Full-time,247655.0,4.0,13.0,Excellent
+28,11110.0,7.0,Bachelor,Seoul,Office,555.0,24345.0,Part-time,432774.0,6.0,8.0,Poor
+28,9784.0,15.0,,,Engineer,496.0,26693.0,,312926.0,5.0,,Poor
+41,3404.0,29.0,High School,Daegu,Office,630.0,20385.0,,286926.0,7.0,12.0,Average
+53,2035.0,17.0,High School,Seoul,Office,513.0,19122.0,Self-employed,242489.0,2.0,2.0,Poor
+57,11961.0,1.0,High School,Incheon,Business,695.0,2364.0,Full-time,205784.0,1.0,20.0,Good
+41,3708.0,12.0,High School,Gwangju,Engineer,693.0,3708.0,Full-time,256836.0,6.0,28.0,Average
+20,10367.0,3.0,High School,Gwangju,Office,769.0,13982.0,Self-employed,,5.0,13.0,Good
+39,5330.0,25.0,Bachelor,Seoul,Teacher,536.0,18308.0,Self-employed,342174.0,2.0,20.0,Poor
+19,7056.0,,High School,Seoul,Engineer,666.0,33919.0,Part-time,219591.0,6.0,9.0,Good
+41,4435.0,29.0,,Seoul,Engineer,456.0,26161.0,Part-time,338555.0,4.0,15.0,Poor
+61,9962.0,10.0,High School,Incheon,Engineer,727.0,36089.0,Part-time,206278.0,4.0,6.0,Good
+47,11562.0,6.0,Master,Daegu,Business,786.0,14865.0,Self-employed,117469.0,5.0,3.0,Excellent
+55,4360.0,30.0,Master,Seoul,Teacher,659.0,1495.0,Self-employed,66950.0,7.0,,Good
+19,,,,Seoul,Engineer,618.0,,Self-employed,415739.0,2.0,19.0,Poor
+38,5191.0,12.0,,Busan,Office,779.0,3148.0,Part-time,,4.0,22.0,Good
+50,7751.0,30.0,Bachelor,Incheon,,587.0,34324.0,,160749.0,5.0,24.0,Average
+29,7268.0,6.0,Bachelor,Seoul,Business,840.0,14393.0,Full-time,226900.0,,10.0,Excellent
+39,9807.0,19.0,PhD,Busan,Office,830.0,2552.0,Self-employed,,4.0,15.0,Excellent
+61,10864.0,3.0,High School,Gwangju,Engineer,755.0,36853.0,Self-employed,417797.0,6.0,19.0,Good
+42,11244.0,6.0,Master,Seoul,Office,679.0,33924.0,Self-employed,425123.0,6.0,3.0,Average
+44,,0.0,Bachelor,Seoul,Engineer,757.0,9926.0,Self-employed,418825.0,4.0,21.0,Good
+59,8741.0,12.0,High School,Busan,Office,610.0,31851.0,Self-employed,202225.0,3.0,21.0,Average
+45,11306.0,21.0,High School,Incheon,Teacher,450.0,24889.0,Full-time,332683.0,6.0,22.0,Poor
+33,6620.0,20.0,Bachelor,Seoul,Business,685.0,40930.0,Full-time,457359.0,2.0,16.0,Good
+32,4698.0,21.0,Master,Gwangju,Business,637.0,9055.0,Self-employed,42936.0,5.0,12.0,Average
+64,9346.0,27.0,PhD,Seoul,Teacher,453.0,5654.0,Part-time,,5.0,10.0,Poor
+61,1877.0,8.0,High School,Gwangju,Teacher,581.0,23634.0,Self-employed,393403.0,,29.0,Poor
+20,9377.0,25.0,PhD,Daegu,Business,667.0,33363.0,Self-employed,250596.0,2.0,2.0,Good
+54,6027.0,,Master,Daegu,Teacher,709.0,12468.0,Self-employed,115042.0,2.0,8.0,Average
+24,2400.0,,Master,Gwangju,Engineer,450.0,33922.0,,,2.0,5.0,Poor
+38,2865.0,9.0,PhD,Incheon,Office,520.0,41718.0,Part-time,277758.0,7.0,21.0,Poor
+26,3936.0,23.0,Master,Seoul,Business,,49091.0,Part-time,472974.0,2.0,20.0,Average
+56,11855.0,7.0,High School,Seoul,Teacher,638.0,18380.0,Full-time,197129.0,1.0,10.0,Average
+35,11310.0,23.0,PhD,Daegu,Engineer,,27870.0,Part-time,163609.0,7.0,15.0,Excellent
+21,8743.0,15.0,Master,Gwangju,Business,457.0,38394.0,Full-time,42419.0,5.0,18.0,Poor
+42,9604.0,25.0,PhD,Seoul,Teacher,,15259.0,Full-time,455794.0,1.0,26.0,Excellent
+31,,26.0,High School,Seoul,Business,741.0,15873.0,Part-time,226063.0,7.0,4.0,Excellent
+26,7784.0,3.0,Master,Incheon,Teacher,693.0,14016.0,Part-time,141211.0,4.0,13.0,Average
+43,6942.0,23.0,High School,Busan,Business,572.0,43137.0,Part-time,404906.0,4.0,16.0,Average
+19,6470.0,18.0,Master,Daegu,Engineer,748.0,1153.0,Full-time,225671.0,5.0,2.0,Excellent
+37,3990.0,9.0,Bachelor,Daegu,Engineer,732.0,8853.0,Self-employed,20834.0,4.0,3.0,Good
+45,10984.0,24.0,Master,Busan,Office,481.0,13379.0,Part-time,314358.0,2.0,15.0,Poor
+64,4512.0,17.0,PhD,Seoul,Business,783.0,16792.0,Part-time,244006.0,7.0,15.0,Good
+24,3992.0,18.0,Master,Incheon,Office,826.0,39367.0,Part-time,274870.0,,20.0,Excellent
+61,3048.0,9.0,High School,Incheon,Business,,19100.0,Full-time,272358.0,2.0,25.0,Poor
+25,5833.0,32.0,High School,Daegu,Teacher,605.0,48553.0,Full-time,22413.0,4.0,24.0,Average
+64,3797.0,4.0,Master,Incheon,Teacher,465.0,12049.0,Self-employed,29505.0,6.0,3.0,Poor
+52,5487.0,34.0,PhD,Busan,Office,,1786.0,Part-time,271753.0,1.0,18.0,Excellent
+31,5818.0,33.0,Bachelor,Seoul,Business,496.0,5368.0,Full-time,384946.0,2.0,25.0,Average
+34,3770.0,,PhD,Busan,Office,,31699.0,Self-employed,153177.0,7.0,16.0,Good
+53,10189.0,20.0,Bachelor,Gwangju,Engineer,636.0,48691.0,Part-time,219176.0,5.0,12.0,Average
+57,7565.0,16.0,High School,,Office,480.0,38040.0,Full-time,410447.0,2.0,25.0,Poor
+21,3002.0,21.0,PhD,Incheon,Office,709.0,28454.0,Part-time,134897.0,6.0,21.0,Good
+19,9935.0,14.0,Bachelor,Gwangju,Teacher,466.0,39762.0,Part-time,78408.0,4.0,22.0,Poor
+23,7367.0,34.0,Master,Incheon,Office,488.0,24600.0,Full-time,188751.0,1.0,25.0,Average
+59,9467.0,27.0,High School,Seoul,Business,753.0,30238.0,Full-time,136908.0,5.0,23.0,Excellent
+21,7542.0,6.0,Master,Seoul,Teacher,488.0,26241.0,Full-time,265993.0,1.0,27.0,Poor
+46,7588.0,31.0,High School,,Office,581.0,20810.0,Part-time,250168.0,5.0,0.0,Average
+35,7208.0,10.0,PhD,Incheon,Engineer,479.0,21167.0,Part-time,99731.0,7.0,11.0,Poor
+43,10469.0,9.0,PhD,Gwangju,Office,607.0,22811.0,Self-employed,347275.0,1.0,3.0,Average
+61,,8.0,High School,Seoul,Office,727.0,40779.0,Part-time,346424.0,4.0,10.0,Good
+51,2722.0,13.0,High School,Gwangju,Office,652.0,21085.0,Full-time,297906.0,7.0,4.0,Average
+27,2219.0,12.0,High School,Incheon,,515.0,47854.0,Part-time,137798.0,7.0,1.0,Poor
+53,,24.0,PhD,Gwangju,Business,557.0,10261.0,Self-employed,136854.0,5.0,16.0,Average
+31,2920.0,1.0,Bachelor,Incheon,Engineer,717.0,19733.0,Self-employed,257902.0,3.0,7.0,Average
+48,2750.0,34.0,Master,Incheon,,671.0,40779.0,Full-time,340847.0,1.0,5.0,Good
+32,4136.0,6.0,Master,Daegu,Business,741.0,,Full-time,494650.0,1.0,20.0,Average
+25,7173.0,20.0,PhD,Incheon,Business,467.0,34980.0,Self-employed,83079.0,2.0,28.0,Poor
+31,4043.0,17.0,Master,Incheon,Teacher,539.0,15141.0,Self-employed,41577.0,5.0,8.0,Poor
+40,4445.0,2.0,High School,Busan,Engineer,630.0,10344.0,Self-employed,283358.0,,12.0,Poor
+57,11849.0,10.0,Bachelor,Seoul,Teacher,704.0,40472.0,Full-time,368483.0,3.0,10.0,Good
+38,6412.0,23.0,Master,Daegu,Business,,16896.0,Self-employed,330258.0,4.0,28.0,Good
+33,3665.0,18.0,Bachelor,Daegu,Business,706.0,24817.0,Self-employed,345374.0,2.0,,Good
+62,7828.0,3.0,High School,Daegu,Business,,30813.0,Full-time,184052.0,3.0,15.0,Good
+35,9126.0,25.0,Master,Busan,Teacher,795.0,19895.0,Part-time,87194.0,5.0,26.0,Excellent
+64,8171.0,,,Incheon,Engineer,536.0,1143.0,Part-time,491022.0,3.0,1.0,Average
+41,8159.0,32.0,Bachelor,Seoul,Office,539.0,11681.0,Self-employed,132333.0,,9.0,Average
+43,9663.0,2.0,High School,Gwangju,Teacher,686.0,8367.0,Part-time,57792.0,1.0,11.0,Average
+42,5028.0,8.0,Bachelor,Incheon,,839.0,4228.0,Part-time,65807.0,7.0,7.0,Excellent
+62,5519.0,7.0,,Busan,Teacher,519.0,5582.0,Part-time,407410.0,1.0,10.0,Poor
+58,4171.0,32.0,Master,Incheon,Business,493.0,,Part-time,435517.0,2.0,29.0,Poor
+46,4691.0,5.0,PhD,Incheon,Office,649.0,12397.0,Self-employed,156213.0,5.0,9.0,Average
+32,5556.0,3.0,High School,Busan,Office,601.0,39799.0,Part-time,124292.0,5.0,12.0,Poor
+62,6025.0,12.0,High School,Daegu,Engineer,535.0,38011.0,Part-time,142984.0,3.0,24.0,Poor
+18,1894.0,1.0,PhD,Daegu,,468.0,14647.0,Full-time,,2.0,16.0,Poor
+42,4474.0,4.0,PhD,Seoul,Engineer,550.0,28718.0,,58346.0,5.0,6.0,Poor
+24,8698.0,26.0,High School,Seoul,Engineer,544.0,45264.0,Full-time,336847.0,6.0,23.0,Average
+26,11947.0,31.0,,Daegu,Office,703.0,43317.0,Full-time,114977.0,6.0,2.0,Excellent
+41,2593.0,20.0,,Gwangju,,806.0,48914.0,Self-employed,329963.0,7.0,29.0,Good
+18,11826.0,7.0,PhD,Incheon,Teacher,,20097.0,Part-time,,1.0,,Poor
+61,3916.0,7.0,Bachelor,Gwangju,Engineer,698.0,37953.0,Full-time,154917.0,3.0,12.0,Average
+25,7579.0,2.0,High School,Incheon,Office,,46254.0,Self-employed,392330.0,4.0,,Poor
+41,7966.0,2.0,Master,Daegu,Business,678.0,41096.0,Part-time,43290.0,1.0,6.0,Average
+28,,21.0,Master,Seoul,,461.0,,Self-employed,394695.0,2.0,8.0,Poor
+34,2145.0,5.0,Bachelor,Seoul,Engineer,567.0,4010.0,Full-time,443915.0,5.0,18.0,Poor
+25,10354.0,1.0,PhD,Gwangju,Teacher,799.0,6555.0,Part-time,195324.0,1.0,12.0,Excellent
+52,4243.0,22.0,PhD,Seoul,Teacher,604.0,1067.0,Part-time,380826.0,4.0,21.0,Average
+52,9583.0,1.0,PhD,Daegu,Business,842.0,29412.0,Self-employed,154365.0,4.0,7.0,Excellent
+50,2784.0,16.0,PhD,Gwangju,Office,695.0,45953.0,Part-time,400161.0,6.0,21.0,Average
+22,9590.0,34.0,PhD,Incheon,Business,781.0,35305.0,Full-time,139496.0,2.0,,Excellent
+59,11631.0,33.0,Bachelor,Seoul,Office,696.0,12549.0,Full-time,339233.0,1.0,28.0,Excellent
+56,2627.0,22.0,,Busan,Teacher,478.0,6680.0,Full-time,429824.0,3.0,22.0,Poor
+58,5331.0,29.0,Master,Seoul,Engineer,610.0,26739.0,Self-employed,410857.0,1.0,1.0,Average
+45,8947.0,7.0,Bachelor,Incheon,Business,684.0,22209.0,Part-time,217345.0,6.0,17.0,Average
+24,6251.0,21.0,PhD,Gwangju,Office,639.0,42515.0,Part-time,298763.0,7.0,17.0,Average
+26,5676.0,4.0,Bachelor,Incheon,Teacher,566.0,23432.0,Part-time,98006.0,4.0,10.0,Poor
+25,7759.0,12.0,Master,Busan,Office,720.0,16116.0,Full-time,266471.0,2.0,0.0,Good
+29,,28.0,High School,Daegu,Office,707.0,21045.0,Part-time,238980.0,2.0,13.0,Good
+51,4977.0,30.0,Bachelor,Seoul,Office,629.0,27327.0,Full-time,494869.0,3.0,15.0,Good
+50,10595.0,15.0,PhD,Gwangju,Teacher,822.0,36709.0,Part-time,,2.0,10.0,Excellent
+40,,29.0,Master,Daegu,Engineer,621.0,44617.0,Full-time,464256.0,,0.0,Average
+41,6909.0,15.0,Master,Incheon,Engineer,723.0,27905.0,Part-time,245902.0,6.0,29.0,Good
+54,5946.0,11.0,Master,Gwangju,Engineer,708.0,8067.0,Self-employed,469541.0,6.0,6.0,Good
+52,8996.0,16.0,Master,Daegu,Office,,33559.0,Self-employed,303774.0,2.0,28.0,Average
+61,,15.0,PhD,Gwangju,Teacher,620.0,43919.0,Full-time,,2.0,15.0,Average
+57,5597.0,11.0,High School,Busan,Office,659.0,18985.0,Full-time,135436.0,6.0,29.0,Average
+39,3592.0,7.0,Master,Busan,Engineer,685.0,28369.0,Part-time,163250.0,2.0,13.0,Average
+44,7532.0,,Bachelor,Seoul,Engineer,635.0,18864.0,Part-time,433151.0,2.0,,Average
+52,5276.0,2.0,High School,Seoul,Teacher,813.0,23614.0,Self-employed,460474.0,4.0,13.0,Good
+18,5217.0,15.0,Master,Busan,Office,544.0,48894.0,Part-time,304928.0,1.0,27.0,Poor
+52,3445.0,29.0,High School,Gwangju,Business,,16613.0,Full-time,476938.0,5.0,20.0,Excellent
+54,11197.0,22.0,Bachelor,Busan,,460.0,7447.0,Full-time,,2.0,10.0,Poor
+64,4830.0,27.0,Master,Seoul,Engineer,517.0,6499.0,Full-time,471069.0,5.0,15.0,Poor
+31,4672.0,4.0,Bachelor,Busan,Teacher,828.0,40041.0,Full-time,394311.0,7.0,18.0,Good
+20,4872.0,19.0,PhD,Busan,,659.0,32315.0,Full-time,87359.0,5.0,16.0,Average
+18,3654.0,0.0,Master,Gwangju,Office,645.0,2299.0,Self-employed,223460.0,4.0,26.0,Poor
+22,5821.0,29.0,,Daegu,Engineer,818.0,40469.0,Self-employed,360752.0,2.0,25.0,Excellent
+43,6462.0,20.0,Master,Seoul,Engineer,547.0,5994.0,Full-time,489885.0,6.0,5.0,Average
+31,8314.0,19.0,Master,Gwangju,Office,542.0,30878.0,Part-time,297255.0,5.0,10.0,Poor
+56,6831.0,,,Busan,Office,471.0,16627.0,Full-time,183384.0,2.0,16.0,Poor
+44,4508.0,21.0,Master,Busan,Engineer,,8489.0,Self-employed,280393.0,3.0,8.0,Average
+26,8912.0,17.0,High School,Daegu,Office,832.0,27111.0,Full-time,306305.0,7.0,17.0,Excellent
+32,11324.0,7.0,Master,Seoul,Business,,33355.0,Self-employed,401064.0,6.0,16.0,Poor
+32,,31.0,PhD,Seoul,Engineer,474.0,9269.0,Self-employed,386967.0,3.0,11.0,Average
+43,5307.0,32.0,Master,Incheon,Office,634.0,,Full-time,407158.0,3.0,22.0,Good
+59,8256.0,15.0,,Seoul,Engineer,534.0,45370.0,Full-time,150466.0,5.0,21.0,Poor
+30,6012.0,11.0,PhD,Daegu,Teacher,504.0,12819.0,Part-time,349457.0,3.0,21.0,Poor
+49,9770.0,33.0,PhD,Incheon,Engineer,700.0,25813.0,Self-employed,,4.0,29.0,Excellent
+56,10566.0,13.0,High School,Incheon,Engineer,593.0,22637.0,Part-time,437230.0,,,Average
+49,2336.0,32.0,High School,Busan,Teacher,800.0,2996.0,Full-time,100308.0,5.0,10.0,Excellent
+21,3425.0,22.0,High School,Busan,,847.0,45387.0,Self-employed,328533.0,2.0,3.0,Excellent
+47,9773.0,1.0,High School,Seoul,Office,616.0,4089.0,Part-time,261235.0,1.0,26.0,Average
+54,10377.0,20.0,High School,Incheon,Teacher,673.0,34291.0,Part-time,431377.0,2.0,3.0,Good
+40,9870.0,1.0,PhD,Busan,Engineer,669.0,21659.0,Part-time,127800.0,2.0,2.0,Average
+56,10466.0,26.0,PhD,Daegu,Office,628.0,46178.0,Full-time,420706.0,,25.0,Good
+62,,8.0,Master,Busan,Teacher,568.0,31429.0,Full-time,401691.0,2.0,23.0,Poor
+32,8290.0,0.0,Master,Busan,Office,714.0,16732.0,Full-time,258269.0,,22.0,Average
+60,5400.0,10.0,Bachelor,Incheon,Office,599.0,20506.0,Self-employed,44502.0,1.0,24.0,Poor
+46,8583.0,2.0,Master,Incheon,Teacher,664.0,41935.0,Full-time,55757.0,6.0,16.0,Average
+53,10946.0,22.0,Master,Gwangju,Office,646.0,6190.0,Self-employed,323255.0,3.0,6.0,Good
+30,6771.0,25.0,High School,Daegu,Business,491.0,5575.0,Part-time,118273.0,7.0,25.0,Poor
+49,3005.0,3.0,High School,Incheon,Teacher,502.0,41495.0,,496461.0,2.0,3.0,Poor
+24,3790.0,17.0,,Seoul,Business,779.0,49146.0,Full-time,78645.0,7.0,22.0,Good
+39,7099.0,5.0,Bachelor,,Engineer,700.0,,Part-time,392362.0,4.0,12.0,Average
+45,5372.0,,High School,Daegu,Office,,35899.0,Full-time,,5.0,11.0,Excellent
+19,7775.0,21.0,Master,Incheon,Engineer,827.0,24706.0,Self-employed,139815.0,5.0,0.0,Excellent
+59,8120.0,14.0,Master,Daegu,Engineer,720.0,48668.0,Part-time,422214.0,6.0,20.0,Good
+62,6180.0,21.0,PhD,Incheon,,572.0,23884.0,Full-time,179978.0,6.0,18.0,Average
+23,6557.0,11.0,Bachelor,Busan,Teacher,816.0,18199.0,Part-time,383170.0,4.0,20.0,Excellent
+45,4513.0,17.0,,Gwangju,Office,836.0,45100.0,Part-time,352336.0,,19.0,Excellent
+45,7388.0,34.0,Bachelor,Busan,Engineer,788.0,40434.0,Full-time,201549.0,7.0,17.0,Excellent
+61,2766.0,29.0,High School,Incheon,,715.0,13479.0,Part-time,,7.0,10.0,Good
+61,6744.0,23.0,Bachelor,Incheon,Teacher,797.0,35178.0,Part-time,242343.0,1.0,19.0,Excellent
+37,5232.0,29.0,Master,Busan,Office,478.0,13665.0,Part-time,72021.0,3.0,2.0,Poor
+47,2488.0,13.0,Master,Seoul,Engineer,484.0,1534.0,Part-time,49092.0,5.0,28.0,Poor
+28,6043.0,5.0,Bachelor,Seoul,Business,455.0,27292.0,Self-employed,414458.0,3.0,16.0,Poor
+45,5501.0,2.0,Bachelor,Seoul,Engineer,845.0,,Part-time,388987.0,1.0,11.0,Good
+42,10333.0,,Bachelor,Incheon,Engineer,560.0,37110.0,Part-time,152903.0,6.0,9.0,Average
+56,6982.0,6.0,PhD,Daegu,Teacher,743.0,23469.0,Full-time,332865.0,7.0,7.0,Good
+50,11716.0,13.0,Bachelor,Incheon,Business,526.0,47233.0,Self-employed,310655.0,5.0,14.0,Poor
+18,8504.0,8.0,High School,Daegu,Engineer,798.0,38268.0,Full-time,92782.0,3.0,4.0,Good
+44,6222.0,14.0,PhD,Busan,Engineer,596.0,2172.0,Full-time,379147.0,6.0,3.0,Average
+30,11784.0,,PhD,Gwangju,Business,516.0,28914.0,Full-time,431518.0,1.0,25.0,Average
+58,3559.0,34.0,Bachelor,Daegu,Office,841.0,21901.0,Self-employed,337712.0,3.0,27.0,Excellent
+20,10981.0,1.0,High School,Seoul,Office,457.0,41775.0,Full-time,416448.0,7.0,20.0,Poor
+56,4282.0,26.0,PhD,Incheon,Engineer,571.0,35409.0,Full-time,384206.0,2.0,19.0,Average
+23,9858.0,1.0,Master,Busan,Engineer,789.0,20324.0,Full-time,386445.0,6.0,18.0,Good
+25,2751.0,34.0,PhD,Seoul,Office,624.0,9738.0,Part-time,333651.0,1.0,20.0,Good
+44,,17.0,Bachelor,Busan,Teacher,837.0,38494.0,Full-time,144277.0,3.0,3.0,Excellent
+26,3879.0,13.0,High School,Gwangju,Business,628.0,45557.0,Self-employed,,7.0,14.0,Poor
+54,4517.0,,Bachelor,Incheon,Business,534.0,25054.0,,227580.0,2.0,16.0,Poor
+50,6324.0,17.0,Master,Incheon,Teacher,494.0,30709.0,Part-time,264744.0,2.0,11.0,Poor
+59,11492.0,9.0,Master,Gwangju,Teacher,585.0,44785.0,Self-employed,120128.0,1.0,2.0,Average
+61,10277.0,24.0,Master,Incheon,Teacher,792.0,21107.0,,292827.0,4.0,9.0,Excellent
+41,9111.0,1.0,Bachelor,Daegu,Teacher,465.0,1363.0,Part-time,43664.0,7.0,14.0,Poor
+32,8986.0,24.0,PhD,Busan,Teacher,782.0,11358.0,Full-time,122364.0,7.0,9.0,Excellent
+49,3865.0,32.0,Bachelor,Seoul,Teacher,644.0,37077.0,Part-time,271084.0,5.0,23.0,Good
+49,2568.0,30.0,High School,Gwangju,Business,458.0,4240.0,Full-time,184244.0,1.0,22.0,Poor
+41,7290.0,13.0,PhD,Daegu,Teacher,765.0,7665.0,Full-time,496857.0,2.0,17.0,Good
+58,8445.0,0.0,Master,Seoul,Office,783.0,46689.0,Self-employed,84340.0,2.0,0.0,Good
+29,6883.0,15.0,Bachelor,Seoul,Teacher,,,Part-time,107236.0,1.0,2.0,Excellent
+56,,2.0,Master,Gwangju,Teacher,776.0,47736.0,Self-employed,31017.0,4.0,20.0,Good
+19,7597.0,34.0,Master,Daegu,Business,464.0,26538.0,Self-employed,318757.0,5.0,25.0,Poor
+20,10938.0,5.0,High School,Seoul,Business,776.0,44965.0,Full-time,281879.0,3.0,26.0,Good
+54,6726.0,24.0,PhD,Seoul,Teacher,551.0,12998.0,Self-employed,499346.0,1.0,11.0,Average
+34,7816.0,,High School,Daegu,Business,675.0,1882.0,Part-time,490136.0,5.0,0.0,Good
+19,5135.0,33.0,High School,,Engineer,,21224.0,Self-employed,50348.0,7.0,2.0,Excellent
+19,9838.0,7.0,High School,Seoul,Business,562.0,40691.0,Self-employed,429664.0,5.0,2.0,Poor
+45,6673.0,20.0,,Busan,Business,450.0,47476.0,,291635.0,6.0,4.0,Poor
+40,,33.0,High School,Daegu,,715.0,31825.0,Part-time,229720.0,2.0,18.0,Good
+54,11893.0,3.0,High School,Seoul,Business,657.0,6204.0,Self-employed,141070.0,3.0,28.0,Average
+49,8105.0,24.0,PhD,,Office,559.0,29885.0,,247629.0,1.0,24.0,Average
+50,5251.0,14.0,PhD,Busan,Office,649.0,41056.0,Self-employed,340903.0,2.0,0.0,Average
+18,1854.0,3.0,High School,Seoul,Office,818.0,4203.0,Part-time,457769.0,6.0,3.0,Good
+36,9443.0,11.0,PhD,Busan,Teacher,755.0,,Self-employed,414184.0,6.0,28.0,Excellent
+19,11815.0,31.0,PhD,Busan,Teacher,461.0,33786.0,Self-employed,282512.0,2.0,28.0,Average
+61,5262.0,31.0,High School,Incheon,Engineer,794.0,4083.0,Full-time,487176.0,4.0,25.0,Excellent
+43,2632.0,27.0,Master,Busan,Office,637.0,22584.0,,55010.0,5.0,25.0,Average
+49,7754.0,12.0,High School,Incheon,Teacher,603.0,9521.0,Full-time,467370.0,1.0,3.0,Average
+23,10319.0,30.0,PhD,Daegu,Business,817.0,34541.0,Part-time,55851.0,1.0,16.0,Excellent
+49,9021.0,13.0,Master,Incheon,Business,783.0,30063.0,Self-employed,142761.0,1.0,13.0,Excellent
+21,5110.0,19.0,Bachelor,Gwangju,Office,826.0,5732.0,Part-time,438712.0,2.0,17.0,Excellent
+28,5100.0,17.0,Master,Seoul,Engineer,728.0,28518.0,Part-time,274640.0,7.0,26.0,Good
+34,8522.0,28.0,PhD,Daegu,Engineer,620.0,40563.0,Self-employed,409296.0,4.0,0.0,Good
+55,9018.0,5.0,Master,Daegu,Business,583.0,40752.0,Full-time,182008.0,3.0,21.0,Poor
+41,9576.0,31.0,High School,Gwangju,Engineer,,30697.0,Part-time,98858.0,6.0,15.0,Poor
+22,5475.0,28.0,Bachelor,Incheon,Office,467.0,3567.0,Part-time,87005.0,2.0,2.0,Poor
+51,4854.0,1.0,Bachelor,Seoul,Business,639.0,17121.0,,57493.0,7.0,22.0,Poor
+23,9770.0,22.0,Bachelor,Incheon,Teacher,590.0,2674.0,Self-employed,220867.0,3.0,20.0,Average
+39,3943.0,,PhD,Busan,Teacher,492.0,11875.0,Self-employed,187462.0,6.0,8.0,Poor
+28,,30.0,PhD,Incheon,Engineer,783.0,45340.0,Self-employed,30292.0,6.0,22.0,Excellent
+33,11303.0,4.0,Bachelor,Daegu,,733.0,1739.0,Self-employed,,4.0,3.0,Good
+50,4338.0,18.0,Master,Seoul,,595.0,2545.0,Self-employed,179437.0,5.0,20.0,Average
+26,6347.0,33.0,Bachelor,Incheon,Teacher,764.0,30140.0,Full-time,430423.0,1.0,4.0,Excellent
+23,7419.0,9.0,Master,Seoul,Business,768.0,10327.0,Part-time,121735.0,3.0,10.0,Good
+33,10156.0,24.0,Master,Seoul,Business,,6127.0,Full-time,42912.0,2.0,20.0,Average
+46,8412.0,1.0,PhD,Busan,Business,628.0,24331.0,Full-time,100771.0,3.0,25.0,Poor
+20,6805.0,10.0,Master,,,505.0,24004.0,Self-employed,207644.0,5.0,8.0,Poor
+37,2622.0,30.0,Bachelor,,Business,604.0,42833.0,Part-time,127293.0,1.0,25.0,Average
+53,2743.0,14.0,PhD,Gwangju,Office,609.0,11492.0,Full-time,119083.0,3.0,2.0,Poor
+36,7950.0,8.0,High School,Seoul,Engineer,560.0,14749.0,Self-employed,133655.0,5.0,5.0,Poor
+43,6225.0,22.0,High School,Gwangju,Business,586.0,24508.0,Self-employed,432492.0,2.0,23.0,Average
+20,10766.0,18.0,PhD,Daegu,Business,681.0,10045.0,Part-time,117459.0,4.0,10.0,Good
+36,3998.0,8.0,,Seoul,Office,669.0,21116.0,Full-time,418750.0,7.0,8.0,Average
+37,6042.0,,High School,Seoul,Engineer,517.0,19667.0,Full-time,243077.0,6.0,28.0,Average
+49,5495.0,20.0,High School,Gwangju,Teacher,751.0,10521.0,Full-time,252682.0,2.0,14.0,Good
+24,5252.0,8.0,Master,Incheon,Teacher,698.0,9669.0,Self-employed,448886.0,1.0,22.0,Average
+58,10906.0,27.0,Master,Busan,Engineer,772.0,28302.0,Part-time,475363.0,6.0,27.0,Excellent
+50,3108.0,6.0,Bachelor,,Business,841.0,12283.0,Part-time,249171.0,7.0,,Good
+57,5977.0,15.0,PhD,Gwangju,,455.0,31935.0,Full-time,393839.0,2.0,0.0,Poor
+56,10505.0,15.0,Bachelor,Busan,Teacher,729.0,7998.0,Self-employed,187558.0,,19.0,Excellent
+35,11912.0,32.0,PhD,Incheon,Teacher,543.0,29806.0,Full-time,478773.0,2.0,28.0,Average
+57,8652.0,3.0,High School,Busan,Teacher,718.0,32624.0,Part-time,316412.0,2.0,21.0,Average
+18,7835.0,3.0,Master,Seoul,Office,646.0,14440.0,,127338.0,6.0,18.0,Average
+28,5394.0,16.0,Bachelor,Incheon,Teacher,474.0,46465.0,Full-time,494551.0,1.0,13.0,Poor
+45,6641.0,28.0,Bachelor,Busan,Office,597.0,47501.0,Full-time,308480.0,7.0,16.0,Average
+42,3209.0,34.0,PhD,Busan,Engineer,567.0,22797.0,Self-employed,285785.0,5.0,21.0,Average
+40,6366.0,6.0,PhD,Busan,Business,787.0,2269.0,Part-time,107132.0,3.0,13.0,Good
+48,6291.0,26.0,Bachelor,Incheon,Teacher,816.0,8868.0,Self-employed,315103.0,4.0,16.0,Excellent
+47,3355.0,27.0,PhD,Daegu,Business,787.0,31251.0,Full-time,164378.0,7.0,24.0,Excellent
+59,2604.0,21.0,Bachelor,Incheon,Business,515.0,13373.0,Full-time,197254.0,3.0,26.0,Poor
+52,3079.0,13.0,Bachelor,Gwangju,Teacher,750.0,19987.0,Full-time,94123.0,3.0,13.0,Good
+24,8883.0,,Bachelor,Incheon,Teacher,819.0,39729.0,Full-time,469542.0,4.0,11.0,Good
+33,7786.0,21.0,High School,Busan,Engineer,624.0,16734.0,Part-time,247967.0,7.0,15.0,Average
+43,7419.0,4.0,,Seoul,Office,768.0,43429.0,Part-time,,6.0,0.0,Good
+19,3187.0,1.0,Master,Incheon,Office,525.0,42337.0,Full-time,90198.0,1.0,12.0,Poor
+18,4479.0,26.0,Master,Incheon,Business,563.0,41325.0,Part-time,47197.0,4.0,5.0,Poor
+29,3906.0,20.0,PhD,Busan,Teacher,560.0,19064.0,Part-time,,1.0,16.0,Poor
+22,9973.0,14.0,Bachelor,,,,9433.0,Part-time,128775.0,6.0,,Good
+54,6023.0,20.0,Master,Seoul,Engineer,652.0,49421.0,Full-time,307176.0,3.0,22.0,Average
+49,,9.0,Master,Gwangju,Engineer,596.0,10111.0,Self-employed,341768.0,1.0,18.0,Poor
+26,4568.0,22.0,PhD,Incheon,Engineer,484.0,39450.0,Self-employed,360321.0,6.0,5.0,Poor
+58,4986.0,4.0,Master,Seoul,Engineer,758.0,49247.0,Self-employed,324108.0,6.0,6.0,Average
+52,4373.0,0.0,Bachelor,Seoul,Office,475.0,16047.0,Full-time,181100.0,5.0,0.0,Poor
+36,4399.0,12.0,,Daegu,Office,687.0,9084.0,,131030.0,4.0,0.0,Average
+33,5833.0,20.0,Bachelor,Daegu,Office,463.0,22751.0,Part-time,336790.0,5.0,28.0,Poor
+20,10228.0,25.0,Master,Seoul,Teacher,823.0,17453.0,Full-time,363331.0,3.0,4.0,Excellent
+37,3104.0,20.0,Master,Gwangju,Business,,21308.0,Full-time,421752.0,4.0,5.0,Poor
+41,9168.0,17.0,Bachelor,Seoul,Engineer,665.0,39968.0,Self-employed,137399.0,3.0,15.0,Good
+50,7677.0,31.0,High School,Busan,Teacher,682.0,31077.0,Self-employed,76747.0,5.0,24.0,Good
+41,3101.0,16.0,Master,Incheon,Engineer,642.0,44046.0,Full-time,,7.0,15.0,Average
+28,4341.0,34.0,High School,Gwangju,Office,500.0,,Self-employed,419489.0,6.0,13.0,Poor
+25,3851.0,10.0,Master,Busan,Teacher,824.0,49570.0,Part-time,353964.0,3.0,0.0,Good
+53,8609.0,,High School,Gwangju,Office,663.0,47097.0,Full-time,145342.0,4.0,,Good
+55,10433.0,25.0,High School,Busan,Engineer,600.0,25503.0,,111228.0,4.0,,Good
+57,10796.0,3.0,High School,Incheon,,724.0,3779.0,Part-time,356497.0,3.0,9.0,Good
+37,1874.0,33.0,Bachelor,Incheon,Business,787.0,22304.0,Part-time,,4.0,23.0,Excellent
+52,,17.0,High School,Daegu,Engineer,525.0,1755.0,Part-time,368058.0,6.0,,Poor
+42,7275.0,34.0,High School,Busan,Office,669.0,40263.0,Self-employed,,7.0,8.0,Good
+52,10032.0,28.0,High School,Daegu,Engineer,797.0,43955.0,Full-time,388862.0,6.0,12.0,Excellent
+42,,,Master,Busan,Business,636.0,43281.0,Self-employed,430343.0,4.0,2.0,Good
+46,7596.0,20.0,,Daegu,Business,738.0,18400.0,Part-time,266222.0,3.0,26.0,Good
+35,8941.0,12.0,,Incheon,Office,477.0,41115.0,Self-employed,234560.0,5.0,17.0,Poor
+63,3422.0,16.0,High School,Gwangju,,828.0,15249.0,Part-time,31539.0,4.0,19.0,Excellent
+35,9841.0,8.0,High School,Daegu,Engineer,629.0,48647.0,Self-employed,197833.0,4.0,1.0,Average
+19,2141.0,0.0,Bachelor,Busan,Business,702.0,47825.0,Self-employed,328363.0,4.0,16.0,Poor
+52,3874.0,1.0,Master,Busan,Engineer,575.0,45825.0,Part-time,427908.0,4.0,27.0,Poor
+33,9792.0,28.0,High School,Incheon,Engineer,626.0,25600.0,,496872.0,3.0,18.0,Good
+58,2445.0,32.0,Master,,Teacher,486.0,38706.0,Full-time,295478.0,5.0,,Poor
+53,6063.0,9.0,Master,Seoul,Business,548.0,20222.0,Self-employed,441831.0,5.0,12.0,Poor
+50,10601.0,20.0,PhD,Gwangju,Engineer,547.0,,Self-employed,290047.0,1.0,12.0,Average
+21,7936.0,27.0,Bachelor,Daegu,Business,576.0,39968.0,Full-time,441743.0,4.0,0.0,Average
+50,10446.0,10.0,Bachelor,Gwangju,Office,617.0,42139.0,Part-time,428845.0,4.0,1.0,Average
+31,11700.0,33.0,Bachelor,Incheon,Office,529.0,42302.0,Full-time,78008.0,1.0,0.0,Average
+38,4769.0,7.0,PhD,,Engineer,743.0,30148.0,Self-employed,496492.0,5.0,23.0,Average
+37,4828.0,21.0,PhD,Daegu,Business,782.0,23302.0,,381462.0,,4.0,Excellent
+25,9443.0,7.0,Bachelor,Seoul,Engineer,575.0,3623.0,Self-employed,439924.0,6.0,23.0,Average
+24,4481.0,14.0,PhD,Incheon,Business,792.0,9646.0,Self-employed,161932.0,2.0,2.0,Good
+20,5429.0,16.0,PhD,Busan,Business,759.0,,Full-time,430654.0,5.0,28.0,Good
+34,6025.0,22.0,PhD,Seoul,Teacher,599.0,29960.0,Full-time,87300.0,7.0,27.0,Average
+50,4867.0,23.0,Bachelor,Seoul,Teacher,465.0,23785.0,Part-time,411407.0,4.0,6.0,Poor
+29,7741.0,18.0,,Gwangju,Teacher,477.0,,Part-time,484761.0,2.0,23.0,Poor
+39,3186.0,4.0,Bachelor,Gwangju,Engineer,622.0,32406.0,Part-time,302986.0,3.0,21.0,Poor
+39,4666.0,31.0,PhD,Gwangju,Teacher,495.0,24456.0,Self-employed,211285.0,3.0,12.0,Poor
+63,6588.0,0.0,Bachelor,Seoul,Teacher,777.0,24777.0,Full-time,324516.0,1.0,28.0,Good
+47,,22.0,PhD,Busan,Office,685.0,21914.0,Full-time,396460.0,5.0,22.0,Good
+55,5924.0,7.0,High School,Daegu,Business,663.0,30553.0,Full-time,118971.0,,29.0,Average
+55,10140.0,12.0,PhD,Gwangju,Business,534.0,24548.0,Part-time,482122.0,2.0,27.0,Poor
+62,5650.0,7.0,Master,Busan,Teacher,731.0,38265.0,Full-time,58744.0,4.0,17.0,Average
+25,7215.0,22.0,Bachelor,Incheon,Business,681.0,41701.0,Full-time,398226.0,5.0,23.0,Good
+44,9479.0,0.0,Bachelor,Gwangju,,534.0,7727.0,Full-time,339586.0,2.0,20.0,Poor
+44,8619.0,23.0,Master,Daegu,Office,514.0,45924.0,Part-time,411214.0,2.0,6.0,Poor
+51,11128.0,34.0,PhD,Incheon,Teacher,583.0,33427.0,Full-time,105990.0,6.0,0.0,Good
+38,10178.0,23.0,High School,Incheon,Office,600.0,17692.0,Part-time,403814.0,6.0,,Average
+47,11242.0,16.0,Master,Daegu,Business,564.0,32625.0,Full-time,389061.0,,16.0,Average
+50,3133.0,4.0,Master,Gwangju,,513.0,25918.0,Full-time,254975.0,2.0,27.0,Poor
+45,5950.0,19.0,PhD,Seoul,Business,792.0,,Full-time,23650.0,,28.0,Excellent
+64,8566.0,20.0,Bachelor,Daegu,Engineer,812.0,42136.0,Part-time,65117.0,1.0,7.0,Excellent
+50,,30.0,PhD,Daegu,Teacher,801.0,16577.0,Part-time,,6.0,14.0,Excellent
+22,6653.0,10.0,Master,Daegu,Engineer,607.0,20619.0,Full-time,465988.0,5.0,19.0,Average
+36,8012.0,14.0,Master,Incheon,Office,526.0,47240.0,Self-employed,285334.0,4.0,3.0,Poor
+21,9279.0,18.0,Bachelor,Busan,Business,595.0,34710.0,Part-time,68113.0,7.0,,Average
+52,7208.0,6.0,Bachelor,Seoul,Engineer,792.0,38388.0,Part-time,159861.0,1.0,4.0,Good
+34,11777.0,27.0,Bachelor,Gwangju,Business,674.0,17195.0,Full-time,52125.0,1.0,0.0,Excellent
+61,9515.0,4.0,PhD,Gwangju,Teacher,762.0,28689.0,Self-employed,249767.0,6.0,24.0,Good
+45,10742.0,4.0,Bachelor,Busan,Teacher,552.0,12154.0,Full-time,412144.0,6.0,4.0,Poor
+47,3562.0,29.0,Master,Daegu,Office,796.0,40121.0,Part-time,430675.0,5.0,5.0,Excellent
+46,8901.0,31.0,Master,Seoul,Teacher,750.0,30412.0,Part-time,186490.0,6.0,1.0,Excellent
+63,9474.0,,High School,Gwangju,Engineer,537.0,22341.0,Full-time,394048.0,3.0,25.0,Poor
+23,7922.0,9.0,PhD,Gwangju,Teacher,820.0,33018.0,Full-time,198157.0,7.0,25.0,Excellent
+52,2281.0,31.0,High School,Daegu,Office,752.0,10145.0,Self-employed,38768.0,2.0,0.0,Excellent
+58,1953.0,27.0,Master,Busan,Business,617.0,43262.0,Self-employed,201033.0,1.0,3.0,Average
+54,9417.0,16.0,High School,Seoul,Business,619.0,47330.0,Part-time,363243.0,3.0,6.0,Average
+41,3324.0,30.0,Master,Busan,Teacher,584.0,23223.0,Self-employed,273807.0,4.0,21.0,Average
+46,3920.0,7.0,High School,Busan,Engineer,499.0,,Self-employed,178957.0,3.0,25.0,Poor
+63,4143.0,24.0,Bachelor,Seoul,Office,789.0,22271.0,,107421.0,5.0,0.0,Excellent
+48,6936.0,8.0,High School,Seoul,Engineer,796.0,34313.0,Part-time,212154.0,4.0,0.0,Good
+52,7560.0,1.0,Bachelor,Gwangju,Office,583.0,47900.0,Part-time,289039.0,4.0,7.0,Poor
+50,3040.0,14.0,Bachelor,Gwangju,Teacher,796.0,14304.0,Part-time,201383.0,6.0,19.0,Good
+38,1860.0,2.0,PhD,Seoul,Office,586.0,35695.0,Full-time,240566.0,3.0,15.0,Poor
+49,10930.0,3.0,Bachelor,Incheon,Office,694.0,31225.0,Part-time,218139.0,5.0,,Average
+40,3439.0,13.0,Bachelor,Gwangju,Teacher,558.0,21536.0,Part-time,91017.0,1.0,12.0,Poor
+50,7985.0,24.0,High School,Incheon,Engineer,762.0,31831.0,Part-time,306076.0,7.0,22.0,Excellent
+20,9770.0,9.0,Master,Seoul,Teacher,736.0,12673.0,Self-employed,41360.0,6.0,23.0,Good
+35,3052.0,20.0,PhD,Gwangju,,470.0,22917.0,Part-time,336991.0,3.0,25.0,Poor
+42,6003.0,11.0,Bachelor,Busan,Teacher,539.0,28829.0,Full-time,110365.0,1.0,22.0,Poor
+59,10163.0,26.0,PhD,Seoul,Office,745.0,16372.0,,105468.0,3.0,17.0,Excellent
+48,11450.0,1.0,High School,Daegu,Teacher,561.0,26938.0,Part-time,277137.0,6.0,29.0,Poor
+20,5349.0,12.0,Bachelor,Incheon,Business,750.0,3663.0,Full-time,321075.0,1.0,19.0,Good
+57,5997.0,,High School,Seoul,Business,526.0,,Self-employed,75823.0,6.0,9.0,Poor
+63,8809.0,30.0,PhD,Seoul,Teacher,626.0,10465.0,Part-time,320176.0,3.0,11.0,Good
+41,8467.0,15.0,High School,Gwangju,Engineer,792.0,4326.0,Full-time,266991.0,4.0,0.0,Excellent
+49,4122.0,31.0,PhD,Gwangju,Office,597.0,4659.0,Full-time,232498.0,7.0,9.0,Average
+64,11628.0,31.0,High School,Gwangju,Business,550.0,28594.0,Part-time,38807.0,2.0,8.0,Average
+39,5890.0,33.0,,Daegu,Engineer,695.0,5763.0,Full-time,424983.0,7.0,2.0,Excellent
+40,8760.0,10.0,Master,Gwangju,Office,566.0,24121.0,Part-time,159143.0,4.0,27.0,Poor
+19,4804.0,9.0,High School,Seoul,Business,541.0,11828.0,Full-time,73413.0,6.0,18.0,Poor
+44,6936.0,14.0,High School,Gwangju,Business,477.0,48588.0,Self-employed,177221.0,7.0,25.0,Poor
+59,2129.0,16.0,Master,Busan,Teacher,,12221.0,Full-time,35540.0,,8.0,Poor
+19,5440.0,17.0,Master,Gwangju,Office,507.0,12211.0,Full-time,252284.0,6.0,9.0,Poor
+43,9782.0,,High School,,Engineer,746.0,14569.0,Part-time,90248.0,1.0,18.0,Good
+34,5907.0,24.0,Master,Busan,Engineer,,,,272515.0,5.0,15.0,Average
+57,3141.0,13.0,Bachelor,Seoul,Engineer,780.0,,Part-time,242809.0,6.0,23.0,Good
+50,10207.0,24.0,PhD,Seoul,Office,698.0,7022.0,Self-employed,130494.0,7.0,17.0,Excellent
+26,2138.0,21.0,PhD,Incheon,Engineer,487.0,46337.0,Part-time,269643.0,7.0,13.0,Poor
+60,7695.0,29.0,PhD,Busan,Engineer,839.0,14515.0,Part-time,105435.0,7.0,28.0,Excellent
+56,4508.0,19.0,Bachelor,Incheon,Engineer,524.0,7159.0,Full-time,39787.0,4.0,2.0,Poor
+46,3550.0,20.0,Master,Busan,Teacher,591.0,46991.0,Self-employed,303126.0,2.0,1.0,Poor
+59,7404.0,31.0,Master,Busan,Teacher,771.0,42213.0,Part-time,270768.0,6.0,0.0,Excellent
+43,,20.0,High School,Daegu,Office,617.0,22691.0,Full-time,42606.0,6.0,17.0,Average
+52,8919.0,34.0,Master,Incheon,Office,708.0,,Full-time,278632.0,6.0,23.0,Excellent
+42,10701.0,31.0,High School,Daegu,Engineer,822.0,,Part-time,423366.0,1.0,8.0,Excellent
+41,,29.0,Bachelor,Busan,Teacher,804.0,4044.0,Full-time,499145.0,6.0,12.0,Excellent
+30,8409.0,11.0,PhD,Seoul,Business,674.0,10612.0,Part-time,,4.0,1.0,Good
+24,,17.0,PhD,,Business,601.0,6636.0,Part-time,253867.0,3.0,6.0,Average
+53,5793.0,20.0,PhD,Daegu,Engineer,468.0,12593.0,Part-time,132223.0,5.0,15.0,Poor
+62,10480.0,12.0,Master,Incheon,Engineer,595.0,49947.0,Self-employed,66936.0,,20.0,Average
+37,9844.0,20.0,High School,Incheon,Teacher,690.0,3892.0,Part-time,113286.0,6.0,18.0,Good
+18,10038.0,7.0,High School,Daegu,Teacher,821.0,22672.0,Full-time,421809.0,1.0,24.0,Excellent
+25,6673.0,6.0,Bachelor,Incheon,Teacher,830.0,6812.0,Self-employed,430574.0,4.0,14.0,Excellent
+63,6606.0,22.0,Master,Gwangju,Office,793.0,32085.0,Full-time,495359.0,6.0,21.0,Excellent
+33,10392.0,31.0,Bachelor,Seoul,Office,,1654.0,Self-employed,57381.0,1.0,10.0,Excellent
+31,7713.0,10.0,High School,Seoul,,484.0,18143.0,Self-employed,403609.0,3.0,0.0,Poor
+29,8924.0,21.0,High School,Seoul,Office,639.0,2798.0,Self-employed,310218.0,2.0,20.0,Good
+40,4957.0,21.0,PhD,Incheon,Teacher,450.0,38927.0,Self-employed,433811.0,6.0,6.0,Poor
+32,2190.0,24.0,Master,Incheon,Teacher,602.0,30087.0,Full-time,64194.0,4.0,19.0,Average
+45,6230.0,21.0,High School,Busan,Office,575.0,12618.0,Part-time,200449.0,1.0,7.0,Average
+51,10620.0,27.0,PhD,Busan,Business,794.0,,Full-time,308997.0,1.0,9.0,Excellent
+19,9486.0,28.0,Master,Seoul,Engineer,849.0,22646.0,Part-time,355863.0,6.0,4.0,Excellent
+49,6032.0,12.0,,Gwangju,Business,675.0,37591.0,Full-time,171733.0,1.0,8.0,Average
+40,9807.0,17.0,Master,Busan,Engineer,670.0,49867.0,Self-employed,201565.0,2.0,24.0,Good
+39,3321.0,1.0,Master,Busan,Business,660.0,28200.0,Self-employed,138724.0,1.0,24.0,Poor
+42,10818.0,28.0,,Incheon,Office,474.0,30571.0,Part-time,257777.0,7.0,0.0,Poor
+39,3300.0,20.0,High School,Gwangju,Engineer,465.0,23538.0,Part-time,187567.0,5.0,1.0,Poor
+39,8537.0,14.0,Master,Seoul,Engineer,631.0,41555.0,Full-time,33703.0,7.0,18.0,Average
+59,5094.0,26.0,High School,Busan,Engineer,,44964.0,Part-time,466296.0,5.0,13.0,Excellent
+23,6885.0,,High School,Gwangju,Teacher,578.0,21900.0,Full-time,444031.0,1.0,19.0,Average
+32,4219.0,14.0,High School,Gwangju,Teacher,491.0,23356.0,Part-time,442781.0,6.0,,Poor
+60,10926.0,22.0,PhD,Seoul,,785.0,24023.0,Part-time,476537.0,5.0,8.0,Excellent
+54,4842.0,23.0,PhD,Gwangju,Office,685.0,40148.0,Part-time,399635.0,4.0,9.0,Good
+50,6297.0,12.0,Master,Gwangju,Teacher,809.0,18392.0,Self-employed,78453.0,5.0,,Excellent
+25,3266.0,21.0,High School,Gwangju,,483.0,21698.0,Self-employed,108478.0,7.0,,Poor
+61,5361.0,32.0,PhD,Busan,Teacher,794.0,43470.0,Full-time,315305.0,1.0,16.0,Excellent
+61,2414.0,2.0,Master,Seoul,Office,830.0,27535.0,Part-time,207063.0,6.0,27.0,Good
+22,7192.0,18.0,High School,Gwangju,Teacher,494.0,36450.0,Full-time,396440.0,3.0,24.0,Poor
+56,9493.0,22.0,Bachelor,Gwangju,Engineer,583.0,34757.0,Part-time,258411.0,6.0,5.0,Average
+21,11174.0,28.0,High School,Busan,Business,470.0,13476.0,Self-employed,,6.0,3.0,Average
+23,5023.0,29.0,High School,Seoul,Engineer,571.0,42214.0,Self-employed,315493.0,6.0,29.0,Average
+62,8938.0,24.0,PhD,Incheon,,519.0,5711.0,,67098.0,,19.0,Average
+49,4467.0,7.0,Master,Busan,Business,801.0,7479.0,Part-time,,2.0,2.0,Good
+47,9780.0,15.0,Master,Seoul,Teacher,810.0,32390.0,Self-employed,413348.0,7.0,22.0,Excellent
+64,1930.0,7.0,PhD,Gwangju,Teacher,497.0,14161.0,Self-employed,71990.0,1.0,18.0,Poor
+52,4783.0,,High School,Seoul,Teacher,488.0,33152.0,Full-time,351065.0,2.0,17.0,Poor
+57,6078.0,4.0,,Seoul,Business,736.0,15635.0,Self-employed,187610.0,3.0,25.0,Good
+33,8926.0,2.0,High School,Seoul,Engineer,459.0,41843.0,Part-time,120572.0,2.0,23.0,Poor
+30,10030.0,0.0,High School,Incheon,Business,479.0,31297.0,Full-time,256981.0,1.0,3.0,Poor
+59,9494.0,3.0,Bachelor,Seoul,Business,693.0,21836.0,Part-time,289357.0,7.0,7.0,Average
+47,8440.0,34.0,PhD,Incheon,Office,723.0,25831.0,Full-time,144693.0,7.0,16.0,Excellent
+36,7268.0,31.0,Master,Gwangju,Business,537.0,2007.0,Part-time,195295.0,1.0,,Average
+34,2720.0,33.0,PhD,Incheon,Teacher,693.0,27331.0,Self-employed,,3.0,12.0,Good
+36,9364.0,24.0,PhD,Gwangju,Engineer,830.0,41456.0,Part-time,281498.0,1.0,24.0,Excellent
+45,10484.0,9.0,High School,Gwangju,Engineer,778.0,11763.0,Full-time,350515.0,3.0,0.0,Excellent
+43,11123.0,20.0,,Incheon,Engineer,464.0,4908.0,Part-time,88274.0,3.0,26.0,Poor
+54,10302.0,26.0,Master,Busan,Teacher,453.0,28573.0,Full-time,389997.0,1.0,12.0,Poor
+43,10730.0,26.0,PhD,Daegu,Teacher,640.0,20187.0,Part-time,,5.0,3.0,Good
+40,5041.0,1.0,Bachelor,Seoul,Teacher,,12957.0,Self-employed,373572.0,7.0,,Poor
+26,2345.0,12.0,,Daegu,Teacher,458.0,,Self-employed,59601.0,3.0,25.0,Poor
+29,6146.0,8.0,Bachelor,Seoul,Teacher,558.0,28959.0,Part-time,356033.0,1.0,23.0,Poor
+18,11796.0,21.0,Master,Seoul,Business,586.0,17482.0,Part-time,297834.0,5.0,13.0,Average
+18,5610.0,25.0,PhD,Gwangju,Teacher,603.0,28105.0,Part-time,284053.0,7.0,2.0,Average
+64,9006.0,11.0,High School,Seoul,Teacher,837.0,1877.0,Full-time,373383.0,3.0,4.0,Excellent
+51,,16.0,PhD,Seoul,Teacher,658.0,49353.0,Part-time,362176.0,7.0,6.0,Average
+49,3832.0,13.0,Master,Incheon,Teacher,721.0,19252.0,Part-time,,5.0,0.0,Good
+42,10236.0,13.0,High School,Daegu,Engineer,,32334.0,Full-time,357530.0,7.0,22.0,Average
+57,2071.0,,High School,Incheon,Teacher,548.0,20049.0,Self-employed,244309.0,4.0,28.0,Average
+62,5311.0,19.0,Bachelor,Seoul,Business,826.0,18772.0,,185803.0,6.0,11.0,Excellent
+18,3571.0,10.0,High School,Gwangju,Business,757.0,3637.0,Part-time,156225.0,4.0,10.0,Good
+33,11254.0,15.0,High School,Incheon,Business,518.0,8242.0,Self-employed,161553.0,5.0,23.0,Poor
+56,6161.0,30.0,PhD,Incheon,Office,696.0,43025.0,Self-employed,119270.0,3.0,7.0,Good
+22,8869.0,5.0,Master,Busan,Engineer,710.0,42381.0,Full-time,348569.0,1.0,24.0,Average
+39,2720.0,18.0,Bachelor,Seoul,Teacher,725.0,36651.0,Part-time,214672.0,2.0,5.0,Good
+46,9990.0,3.0,PhD,Gwangju,Office,,34972.0,Part-time,104981.0,1.0,27.0,Poor
+20,5230.0,3.0,,Incheon,Teacher,595.0,17928.0,Full-time,485213.0,7.0,21.0,Poor
+29,6235.0,19.0,High School,Incheon,Office,560.0,29742.0,Self-employed,124470.0,2.0,1.0,Poor
+43,5560.0,,Bachelor,Gwangju,Office,,12831.0,Full-time,179277.0,2.0,18.0,Average
+33,3850.0,23.0,Master,Seoul,Business,542.0,49232.0,Self-employed,108887.0,7.0,19.0,Poor
+54,2965.0,34.0,Bachelor,Busan,Business,462.0,20556.0,Full-time,363686.0,7.0,19.0,Poor
+39,10367.0,25.0,PhD,Incheon,Office,709.0,26343.0,Self-employed,457365.0,3.0,23.0,Excellent
+46,3833.0,20.0,,Busan,Business,558.0,23834.0,Full-time,331256.0,5.0,13.0,Poor
+31,8267.0,20.0,High School,Daegu,Office,779.0,47762.0,Self-employed,162012.0,1.0,0.0,Excellent
+45,1945.0,9.0,PhD,Seoul,Engineer,638.0,40288.0,Self-employed,341154.0,5.0,9.0,Poor
+22,,3.0,High School,Daegu,Business,544.0,34422.0,Self-employed,227866.0,,15.0,Poor
+64,,19.0,Master,Daegu,,554.0,,Self-employed,306629.0,3.0,29.0,Average
+47,10423.0,16.0,High School,Daegu,,,19830.0,Self-employed,109299.0,3.0,3.0,Poor
+63,10696.0,6.0,High School,Seoul,Engineer,516.0,9412.0,Part-time,,4.0,26.0,Poor
+22,9973.0,3.0,Bachelor,Seoul,Office,640.0,4666.0,Self-employed,414283.0,1.0,27.0,Average
+29,4432.0,28.0,High School,Gwangju,Teacher,815.0,38045.0,Part-time,302751.0,6.0,28.0,Excellent
+33,6294.0,13.0,PhD,Busan,Business,705.0,21786.0,Self-employed,260491.0,4.0,10.0,Good
+43,9856.0,2.0,PhD,Busan,Office,458.0,6515.0,Part-time,81597.0,1.0,15.0,Poor
+43,9311.0,23.0,Master,Gwangju,Engineer,566.0,,Part-time,277808.0,2.0,26.0,Average
+38,10955.0,15.0,PhD,,Teacher,716.0,27627.0,Full-time,356698.0,7.0,19.0,Good
+56,3628.0,,Bachelor,Daegu,Business,548.0,16198.0,Self-employed,461737.0,3.0,0.0,Poor
+53,10930.0,23.0,Master,Gwangju,Engineer,747.0,4985.0,Full-time,263554.0,1.0,15.0,Excellent
+50,6605.0,33.0,PhD,Incheon,Engineer,846.0,46903.0,Full-time,297331.0,5.0,18.0,Excellent
+47,2606.0,29.0,Bachelor,Busan,Teacher,613.0,41935.0,Self-employed,253983.0,7.0,20.0,Average
+54,,17.0,PhD,Gwangju,Office,825.0,30475.0,Full-time,286129.0,5.0,21.0,Excellent
+40,9286.0,18.0,PhD,Incheon,Business,590.0,41216.0,Self-employed,194124.0,7.0,8.0,Average
+27,10002.0,30.0,High School,Incheon,Business,717.0,,Full-time,170635.0,3.0,8.0,Excellent
+22,3668.0,18.0,PhD,Incheon,Office,486.0,4681.0,Self-employed,198394.0,4.0,8.0,Poor
+53,9678.0,18.0,PhD,Incheon,Office,523.0,27019.0,Self-employed,212317.0,6.0,26.0,Poor
+51,7490.0,21.0,Bachelor,Daegu,Office,,28586.0,Self-employed,333658.0,4.0,16.0,Poor
+48,9627.0,23.0,Bachelor,Incheon,Teacher,757.0,43292.0,Part-time,300752.0,1.0,11.0,Excellent
+27,7229.0,11.0,High School,,Teacher,648.0,38521.0,Full-time,480478.0,4.0,24.0,Average
+36,10876.0,29.0,PhD,Daegu,Business,,40850.0,Part-time,353471.0,3.0,12.0,Average
+49,5364.0,30.0,High School,Incheon,Teacher,695.0,37770.0,Full-time,208297.0,1.0,,Good
+18,3189.0,18.0,PhD,Busan,Engineer,761.0,6629.0,Full-time,487210.0,2.0,15.0,Good
+22,9074.0,29.0,Master,Incheon,Business,509.0,,Full-time,272773.0,4.0,17.0,Average
+62,2624.0,32.0,Master,Incheon,Teacher,728.0,31328.0,Part-time,299365.0,4.0,28.0,Good
+21,4065.0,17.0,High School,Incheon,Office,552.0,13278.0,Full-time,,6.0,26.0,Poor
+33,2736.0,27.0,High School,Busan,Engineer,,9417.0,Part-time,303112.0,1.0,0.0,Good
+41,8202.0,10.0,High School,Seoul,Office,769.0,35765.0,,409821.0,5.0,0.0,Good
+33,5645.0,32.0,Bachelor,,Business,790.0,9963.0,Full-time,233678.0,4.0,11.0,Excellent
+19,3596.0,16.0,Bachelor,Daegu,Office,600.0,49552.0,Full-time,441153.0,3.0,5.0,Poor
+45,10045.0,5.0,Bachelor,Daegu,Teacher,606.0,38292.0,Self-employed,475651.0,4.0,8.0,Poor
+49,9014.0,3.0,,Busan,Teacher,655.0,26009.0,,200580.0,6.0,22.0,Average
+44,2526.0,19.0,PhD,Gwangju,Business,628.0,28675.0,Full-time,281776.0,2.0,4.0,Average
+37,4536.0,26.0,,Seoul,Office,646.0,37175.0,Self-employed,192903.0,6.0,26.0,Average
+41,3713.0,14.0,High School,Daegu,Business,672.0,7731.0,Part-time,456149.0,4.0,15.0,Average
+29,11588.0,5.0,Bachelor,Seoul,Office,538.0,,Part-time,460523.0,5.0,17.0,Poor
+52,11906.0,13.0,Bachelor,Busan,Engineer,736.0,12332.0,Full-time,199412.0,7.0,16.0,Excellent
+50,9457.0,10.0,High School,Busan,Teacher,725.0,20177.0,Part-time,122951.0,4.0,17.0,Good
+50,4266.0,8.0,High School,Gwangju,Business,685.0,24718.0,Part-time,390450.0,1.0,,Average
+60,10841.0,25.0,Bachelor,Gwangju,Engineer,632.0,3911.0,Full-time,499554.0,4.0,18.0,Good
+54,9112.0,15.0,PhD,Busan,Engineer,658.0,19799.0,Self-employed,325745.0,5.0,21.0,Good
+29,9994.0,4.0,Bachelor,Daegu,Business,579.0,16194.0,Full-time,,1.0,28.0,Poor
+20,9706.0,9.0,Bachelor,Seoul,Business,602.0,,Part-time,92178.0,3.0,7.0,Average
+18,,2.0,High School,Incheon,Engineer,462.0,41866.0,Full-time,236383.0,1.0,2.0,Poor
+50,9087.0,12.0,PhD,Gwangju,Office,571.0,29333.0,Full-time,179826.0,6.0,,Poor
+57,2692.0,29.0,Bachelor,,Engineer,808.0,22673.0,,456526.0,2.0,24.0,Excellent
+27,6475.0,5.0,Bachelor,Daegu,Business,669.0,49885.0,Part-time,89893.0,6.0,25.0,Average
+60,3733.0,16.0,Master,Gwangju,Engineer,555.0,41870.0,Full-time,368943.0,7.0,4.0,Poor
+61,3180.0,18.0,High School,Incheon,Office,824.0,6565.0,Part-time,330511.0,1.0,22.0,Excellent
+46,3090.0,,Master,Daegu,Teacher,519.0,23821.0,Part-time,295345.0,3.0,7.0,Poor
+30,3440.0,25.0,Master,Seoul,Teacher,644.0,26494.0,Part-time,415955.0,4.0,18.0,Average
+29,9290.0,4.0,Bachelor,Daegu,Engineer,635.0,34941.0,Part-time,295375.0,1.0,17.0,Average
+48,10979.0,28.0,High School,Gwangju,Office,548.0,9624.0,Part-time,276682.0,6.0,17.0,Average
+63,3018.0,19.0,PhD,Busan,Teacher,531.0,48162.0,Part-time,258886.0,1.0,20.0,Poor
+19,6816.0,20.0,Bachelor,Seoul,,524.0,47024.0,Self-employed,455711.0,1.0,0.0,Poor
+52,8681.0,9.0,PhD,Incheon,Engineer,823.0,1835.0,Full-time,434384.0,1.0,14.0,Excellent
+40,11347.0,4.0,PhD,Gwangju,Office,789.0,19646.0,Part-time,445840.0,3.0,17.0,Excellent
+34,11552.0,5.0,High School,Busan,Business,641.0,12824.0,Full-time,161707.0,5.0,28.0,Average
+43,,25.0,Master,Daegu,Engineer,774.0,38335.0,Self-employed,29964.0,5.0,24.0,Excellent
+25,2754.0,3.0,High School,Busan,Business,663.0,4815.0,Part-time,441001.0,1.0,6.0,Average
+46,10975.0,34.0,PhD,Gwangju,Business,764.0,3429.0,Full-time,246118.0,3.0,15.0,Excellent
+43,9091.0,0.0,Bachelor,Gwangju,Teacher,831.0,42950.0,Part-time,233869.0,3.0,15.0,Good
+27,2774.0,,PhD,Busan,Business,816.0,42886.0,Part-time,235862.0,7.0,14.0,Excellent
+43,5933.0,5.0,Bachelor,Daegu,Office,767.0,45398.0,Part-time,228000.0,1.0,5.0,Good
+51,7170.0,30.0,Bachelor,Busan,Teacher,593.0,3607.0,Part-time,32336.0,6.0,8.0,Good
+58,5772.0,19.0,High School,Gwangju,Teacher,833.0,26650.0,Part-time,359619.0,6.0,6.0,Excellent
+24,7095.0,23.0,PhD,Gwangju,Teacher,665.0,39698.0,Part-time,440628.0,2.0,13.0,Good
+21,10905.0,24.0,Master,Incheon,Engineer,810.0,33353.0,Part-time,102212.0,1.0,10.0,Excellent
+62,10028.0,20.0,PhD,Incheon,Engineer,773.0,,Self-employed,357523.0,2.0,20.0,Excellent
+28,11703.0,29.0,PhD,Seoul,Business,464.0,12991.0,Self-employed,65591.0,6.0,15.0,Average
+46,4820.0,23.0,Master,Gwangju,Teacher,666.0,22168.0,Part-time,343894.0,6.0,24.0,Good
+53,,29.0,High School,Incheon,Teacher,484.0,32099.0,Part-time,372792.0,1.0,5.0,Average
+42,5836.0,21.0,PhD,Busan,Office,632.0,40385.0,Self-employed,378278.0,2.0,21.0,Average
+38,6868.0,27.0,PhD,Daegu,Business,719.0,36919.0,Self-employed,448670.0,2.0,26.0,Good
+53,7033.0,6.0,Bachelor,,Office,807.0,32416.0,Self-employed,118537.0,1.0,15.0,Good
+27,11316.0,34.0,,Daegu,Business,,6580.0,Part-time,344816.0,7.0,19.0,Good
+54,2117.0,27.0,Master,Incheon,Business,456.0,8054.0,Full-time,309372.0,2.0,28.0,Poor
+26,4196.0,13.0,Bachelor,Seoul,Engineer,479.0,25090.0,Full-time,,7.0,15.0,Poor
+41,3962.0,9.0,High School,Busan,,754.0,41387.0,Full-time,104294.0,4.0,11.0,Average
+52,4545.0,15.0,Bachelor,Busan,Office,593.0,16823.0,Full-time,481024.0,6.0,16.0,Poor
+52,3391.0,15.0,Master,Busan,Business,560.0,47015.0,Part-time,496102.0,5.0,4.0,Poor
+53,7983.0,30.0,Master,Daegu,Teacher,681.0,38341.0,Full-time,397721.0,7.0,26.0,Good
+35,5730.0,24.0,Bachelor,Incheon,Engineer,628.0,16339.0,,204087.0,7.0,24.0,Average
+56,11988.0,12.0,High School,Busan,Teacher,521.0,4491.0,Self-employed,370218.0,7.0,12.0,Poor
+49,3112.0,5.0,Bachelor,Busan,Office,659.0,1706.0,,351080.0,3.0,7.0,Average
+41,11277.0,8.0,High School,Seoul,Engineer,669.0,32957.0,Self-employed,231979.0,2.0,23.0,Average
+40,6111.0,19.0,Bachelor,Seoul,Engineer,529.0,16728.0,Part-time,339522.0,2.0,4.0,Poor
+49,9114.0,17.0,Master,Incheon,Business,,7997.0,Full-time,57310.0,3.0,11.0,Average
+54,4183.0,20.0,PhD,Incheon,Office,491.0,39001.0,Full-time,121827.0,2.0,,Poor
+29,5039.0,3.0,PhD,Gwangju,Business,722.0,39523.0,Part-time,496899.0,3.0,2.0,Average
+30,3939.0,32.0,,Seoul,Engineer,640.0,26163.0,Self-employed,219899.0,7.0,2.0,Good
+40,3504.0,26.0,High School,Gwangju,Office,622.0,18718.0,Part-time,448472.0,1.0,0.0,Average
+42,,6.0,High School,Daegu,Engineer,456.0,22972.0,Part-time,227500.0,4.0,24.0,Poor
+52,2162.0,5.0,Master,Gwangju,Office,604.0,19231.0,Self-employed,119862.0,7.0,21.0,Poor
+58,4404.0,14.0,Bachelor,Busan,Engineer,459.0,40619.0,Part-time,321033.0,4.0,17.0,Poor
+47,11708.0,17.0,Master,Gwangju,Teacher,483.0,13126.0,Self-employed,333572.0,6.0,23.0,Poor
+34,6086.0,31.0,PhD,Incheon,Teacher,485.0,24595.0,Self-employed,392646.0,7.0,11.0,Poor
+37,5538.0,10.0,High School,Daegu,,,41633.0,,450423.0,5.0,8.0,Poor
+42,4269.0,19.0,Bachelor,Busan,Teacher,664.0,13118.0,Self-employed,70255.0,2.0,8.0,Average
+39,6595.0,23.0,PhD,Gwangju,Engineer,583.0,4317.0,,387968.0,5.0,17.0,Average
+30,7950.0,14.0,PhD,Daegu,Engineer,734.0,45980.0,Self-employed,242603.0,1.0,17.0,Good
+36,2356.0,6.0,PhD,Daegu,Teacher,575.0,45115.0,Full-time,287553.0,4.0,28.0,Poor
+53,10817.0,20.0,Master,Busan,Business,786.0,44158.0,Self-employed,62438.0,7.0,6.0,Excellent
+29,4608.0,25.0,High School,Gwangju,Teacher,623.0,48631.0,,261482.0,1.0,26.0,Average
+58,6950.0,13.0,PhD,,Office,601.0,40828.0,Part-time,261310.0,1.0,3.0,Poor
+36,9361.0,20.0,High School,Daegu,Office,780.0,16504.0,Self-employed,281084.0,2.0,12.0,Excellent
+29,4519.0,17.0,Master,Seoul,Office,475.0,4057.0,Full-time,290013.0,1.0,,Poor
+26,8306.0,4.0,PhD,Daegu,Teacher,832.0,27660.0,Full-time,207934.0,7.0,23.0,Excellent
+24,5541.0,2.0,Master,Seoul,Teacher,564.0,38196.0,Self-employed,308102.0,7.0,1.0,Poor
+45,,22.0,Master,Gwangju,Teacher,,1402.0,Self-employed,,4.0,13.0,Excellent
+31,5798.0,25.0,,Gwangju,Office,733.0,9605.0,Full-time,432984.0,7.0,2.0,Excellent
+48,4203.0,23.0,PhD,Gwangju,Business,,16761.0,Part-time,247402.0,5.0,4.0,Excellent
+36,10580.0,18.0,Master,Incheon,Engineer,524.0,28043.0,Full-time,177217.0,4.0,13.0,Poor
+64,11539.0,24.0,PhD,Gwangju,Teacher,615.0,34635.0,Full-time,357766.0,2.0,2.0,Good
+33,2094.0,20.0,High School,Daegu,Business,638.0,14779.0,Self-employed,46442.0,4.0,,Average
+22,11977.0,11.0,Master,Busan,Engineer,527.0,16155.0,Self-employed,101948.0,3.0,6.0,Poor
+52,7143.0,32.0,High School,Seoul,Engineer,539.0,41978.0,Full-time,274657.0,5.0,29.0,Average
+29,11682.0,,PhD,Incheon,Engineer,625.0,34132.0,Part-time,307740.0,3.0,17.0,Average
+42,2936.0,6.0,PhD,Gwangju,Business,470.0,24851.0,Full-time,95791.0,3.0,12.0,Poor
+38,3864.0,21.0,High School,Gwangju,Business,503.0,16366.0,Full-time,62406.0,6.0,28.0,Poor
+53,8809.0,32.0,,Busan,Office,633.0,29408.0,Part-time,60524.0,7.0,22.0,Good
+40,6343.0,16.0,Master,Busan,Business,808.0,7571.0,Full-time,174404.0,2.0,26.0,Excellent
+33,2807.0,23.0,PhD,Incheon,Business,671.0,15017.0,Full-time,130160.0,1.0,21.0,Average
+56,7245.0,33.0,PhD,Seoul,,764.0,40236.0,Self-employed,166836.0,3.0,9.0,Excellent
+62,7152.0,27.0,Master,Gwangju,Engineer,777.0,5150.0,Part-time,178635.0,4.0,24.0,Excellent
+59,11239.0,21.0,High School,Incheon,Teacher,628.0,46833.0,Self-employed,187442.0,1.0,12.0,Average
+56,3235.0,16.0,High School,Daegu,Office,725.0,20423.0,Self-employed,287206.0,4.0,15.0,Good
+31,2371.0,33.0,High School,Daegu,Teacher,561.0,5137.0,Part-time,64645.0,4.0,8.0,Average
+48,4182.0,5.0,Bachelor,Incheon,Teacher,673.0,30992.0,Part-time,404903.0,1.0,1.0,Average
+22,11237.0,5.0,Bachelor,Gwangju,Business,663.0,46004.0,Full-time,289388.0,1.0,22.0,Average
+52,6884.0,33.0,PhD,Incheon,Office,,29902.0,Self-employed,419588.0,,4.0,Average
+40,2077.0,0.0,High School,Gwangju,Teacher,776.0,45921.0,Part-time,256481.0,4.0,28.0,Average
+46,8859.0,9.0,Master,Busan,Teacher,842.0,14833.0,Self-employed,277320.0,2.0,21.0,Excellent
+60,3687.0,20.0,PhD,Incheon,Office,558.0,2381.0,Self-employed,105501.0,7.0,16.0,Poor
+28,3065.0,4.0,Master,Gwangju,Business,834.0,9154.0,Part-time,,5.0,22.0,Good
+35,9291.0,1.0,PhD,Incheon,Teacher,606.0,35235.0,Full-time,,6.0,21.0,Poor
+64,,21.0,Bachelor,Incheon,Engineer,640.0,14439.0,Self-employed,261605.0,5.0,3.0,Average
+29,10909.0,1.0,PhD,Gwangju,Teacher,649.0,20122.0,,299100.0,2.0,16.0,Average
+26,9873.0,9.0,Bachelor,Gwangju,,761.0,24956.0,Full-time,453689.0,7.0,8.0,Good
+27,10877.0,33.0,PhD,Seoul,Business,645.0,18264.0,Self-employed,,6.0,19.0,Excellent
+61,4552.0,15.0,High School,Incheon,Teacher,484.0,,Part-time,,7.0,1.0,Poor
+34,10013.0,,Master,Daegu,Office,828.0,4149.0,Self-employed,36709.0,1.0,23.0,Excellent
+55,6369.0,11.0,High School,Incheon,Office,836.0,25660.0,Part-time,232330.0,6.0,17.0,Excellent
+24,8153.0,,PhD,Incheon,Teacher,695.0,41660.0,Part-time,400572.0,4.0,20.0,Good
+63,4153.0,9.0,,Gwangju,Business,686.0,21528.0,Self-employed,297354.0,5.0,26.0,Average
+30,9237.0,34.0,PhD,Incheon,Business,553.0,49904.0,Self-employed,462726.0,6.0,21.0,Average
+57,6599.0,31.0,Bachelor,Incheon,Office,456.0,2168.0,Part-time,384225.0,4.0,10.0,Poor
+59,2486.0,6.0,,Daegu,Teacher,732.0,46124.0,Full-time,189746.0,7.0,12.0,Average
+26,10276.0,20.0,Master,Gwangju,Business,450.0,36897.0,Self-employed,120025.0,2.0,7.0,Poor
+44,6611.0,19.0,PhD,Incheon,Office,668.0,,Part-time,430949.0,6.0,26.0,Good
+19,10754.0,25.0,PhD,Busan,Engineer,679.0,36294.0,Part-time,,4.0,0.0,Good
+22,7146.0,3.0,Bachelor,Seoul,Teacher,621.0,44827.0,Full-time,204484.0,7.0,16.0,Poor
+46,,21.0,High School,Daegu,Engineer,536.0,4516.0,Full-time,406620.0,7.0,11.0,Average
+54,4228.0,14.0,High School,Incheon,Engineer,490.0,20751.0,Full-time,210043.0,7.0,3.0,Poor
+55,6926.0,20.0,Master,Busan,Business,572.0,31373.0,Self-employed,452925.0,,20.0,Average
+36,10020.0,14.0,,Incheon,Business,780.0,31270.0,Part-time,341990.0,1.0,12.0,Excellent
+25,10898.0,21.0,PhD,Incheon,,747.0,11386.0,Part-time,85480.0,2.0,28.0,Excellent
+62,9613.0,27.0,Master,Gwangju,Teacher,822.0,37323.0,Part-time,,2.0,8.0,Excellent
+18,11445.0,13.0,Bachelor,Gwangju,Engineer,,49780.0,Full-time,335104.0,5.0,26.0,Average
+39,5156.0,26.0,High School,Gwangju,Teacher,,15157.0,Part-time,254622.0,7.0,29.0,Poor
+34,10507.0,27.0,Bachelor,Busan,,614.0,38879.0,Self-employed,454368.0,4.0,6.0,Good
+24,9066.0,25.0,High School,Incheon,Engineer,636.0,40520.0,Full-time,440466.0,6.0,22.0,Good
+42,8340.0,1.0,Bachelor,Seoul,Teacher,832.0,40132.0,Full-time,367909.0,5.0,23.0,Good
+62,1838.0,24.0,Master,Daegu,Teacher,658.0,4626.0,Full-time,137265.0,7.0,4.0,Average
+21,5142.0,2.0,High School,Gwangju,Office,676.0,21400.0,Full-time,330281.0,,,Average
+53,10878.0,7.0,,Gwangju,Teacher,838.0,37643.0,Self-employed,,2.0,16.0,Excellent
+23,4644.0,32.0,Master,Incheon,Business,497.0,39265.0,Part-time,138922.0,3.0,29.0,Poor
+48,2898.0,34.0,High School,,Teacher,673.0,16979.0,Self-employed,141280.0,7.0,8.0,Good
+36,8827.0,5.0,High School,Busan,Engineer,452.0,12529.0,Part-time,459628.0,5.0,,Poor
+61,,22.0,PhD,Busan,Teacher,821.0,17645.0,Self-employed,326020.0,4.0,24.0,Excellent
+56,4955.0,24.0,PhD,Gwangju,Office,,27424.0,Full-time,376691.0,5.0,18.0,Average
+44,,18.0,PhD,Incheon,Engineer,548.0,14382.0,Full-time,224736.0,4.0,15.0,Poor
+27,7458.0,,Master,Seoul,Engineer,565.0,5025.0,Self-employed,332371.0,4.0,20.0,Poor
+43,5578.0,,Master,Daegu,Office,719.0,44226.0,Self-employed,183522.0,7.0,1.0,Average
+36,4696.0,11.0,PhD,Incheon,Business,817.0,,Part-time,104433.0,1.0,9.0,Excellent
+56,2788.0,9.0,Master,Incheon,Engineer,702.0,5175.0,Self-employed,93704.0,7.0,15.0,Average
+20,5916.0,7.0,Master,Busan,Business,766.0,31519.0,Self-employed,26861.0,2.0,4.0,Good
+62,8246.0,23.0,High School,Daegu,Engineer,544.0,10174.0,Part-time,,5.0,14.0,Average
+30,5979.0,27.0,High School,Gwangju,Engineer,722.0,4443.0,Part-time,344058.0,4.0,12.0,Excellent
+45,3482.0,20.0,Master,Incheon,Business,829.0,22395.0,Part-time,83888.0,7.0,12.0,Excellent
+37,7426.0,7.0,PhD,Gwangju,Engineer,473.0,11725.0,Self-employed,361430.0,7.0,12.0,Poor
+45,9224.0,8.0,Bachelor,Incheon,Business,565.0,,Part-time,81293.0,5.0,14.0,Poor
+25,2733.0,14.0,PhD,Gwangju,Office,600.0,42115.0,Full-time,233596.0,5.0,13.0,Poor
+58,5398.0,17.0,Bachelor,Daegu,Business,787.0,45548.0,Full-time,88515.0,4.0,7.0,Good
+56,3780.0,19.0,PhD,,Office,499.0,32351.0,Full-time,436740.0,6.0,10.0,Poor
+18,11847.0,5.0,High School,Daegu,Engineer,655.0,19196.0,Self-employed,289209.0,3.0,17.0,Average
+20,4856.0,11.0,Master,Seoul,Business,784.0,47609.0,Full-time,188756.0,2.0,23.0,Good
+30,10784.0,1.0,Master,Busan,Engineer,528.0,15254.0,Self-employed,108720.0,,3.0,Poor
+45,2591.0,6.0,,Daegu,Business,519.0,,Self-employed,184437.0,6.0,25.0,Poor
+42,11801.0,15.0,Bachelor,Seoul,Office,476.0,47136.0,Full-time,341020.0,1.0,9.0,Poor
+50,7190.0,2.0,Bachelor,Incheon,Office,720.0,6724.0,Part-time,436920.0,6.0,0.0,Average
+55,8435.0,2.0,Bachelor,Incheon,Business,499.0,29690.0,Self-employed,208929.0,1.0,28.0,Poor
+23,4055.0,26.0,High School,Gwangju,Office,741.0,2407.0,Full-time,156694.0,1.0,4.0,Excellent
+61,5410.0,32.0,Bachelor,Busan,Engineer,,9032.0,Self-employed,365941.0,6.0,12.0,Excellent
+62,3407.0,27.0,High School,Incheon,Engineer,713.0,48340.0,Part-time,261540.0,2.0,0.0,Good
+49,6979.0,0.0,PhD,Busan,Teacher,528.0,,Part-time,111141.0,3.0,22.0,Poor
+62,8373.0,7.0,PhD,Incheon,Office,836.0,20881.0,Full-time,,2.0,,Excellent
+64,,31.0,High School,Gwangju,,639.0,21756.0,Self-employed,492548.0,7.0,2.0,Good
+38,7576.0,3.0,Master,Daegu,Business,496.0,41162.0,Self-employed,384534.0,2.0,2.0,Poor
+33,5476.0,29.0,PhD,Gwangju,Office,810.0,30416.0,Self-employed,379000.0,2.0,6.0,Excellent
+38,5180.0,5.0,Bachelor,Seoul,Engineer,,45354.0,Self-employed,348345.0,6.0,3.0,Good
+28,10511.0,18.0,High School,Incheon,Office,801.0,26752.0,Full-time,445910.0,6.0,2.0,Excellent
+54,10582.0,31.0,Bachelor,Seoul,Business,638.0,13926.0,Part-time,371910.0,7.0,14.0,Good
+53,2850.0,8.0,Bachelor,Seoul,Engineer,705.0,34765.0,Full-time,42995.0,7.0,7.0,Average
+52,5433.0,11.0,Master,Busan,Teacher,671.0,15390.0,Self-employed,374464.0,6.0,2.0,Average
+36,8142.0,10.0,Bachelor,Incheon,Teacher,821.0,39867.0,Self-employed,100141.0,2.0,28.0,Excellent
+37,2759.0,15.0,Master,Seoul,Office,690.0,22939.0,Part-time,496215.0,3.0,29.0,Average
+35,7859.0,0.0,PhD,Daegu,Business,718.0,28307.0,Self-employed,159491.0,1.0,6.0,Average
+64,10684.0,20.0,High School,Seoul,Engineer,450.0,31828.0,Full-time,461168.0,5.0,17.0,Poor
+58,7455.0,29.0,Bachelor,Daegu,Business,483.0,29513.0,Full-time,184909.0,1.0,10.0,Poor
+31,6273.0,12.0,,Busan,Engineer,528.0,25502.0,Part-time,90799.0,7.0,10.0,Poor
+32,4746.0,33.0,Bachelor,Seoul,Office,685.0,31063.0,Full-time,199949.0,7.0,16.0,Good
+48,9525.0,3.0,High School,Gwangju,Engineer,783.0,23486.0,Full-time,,1.0,27.0,Good
+18,2326.0,27.0,,Busan,Business,826.0,47277.0,Full-time,250739.0,5.0,5.0,Excellent
+20,5024.0,30.0,Bachelor,Daegu,Business,798.0,,Full-time,57276.0,2.0,7.0,Excellent
+33,3675.0,26.0,Bachelor,Busan,Office,547.0,32692.0,Self-employed,54523.0,3.0,0.0,Poor
+40,3563.0,4.0,Bachelor,Seoul,Business,531.0,39384.0,Full-time,217127.0,3.0,28.0,Poor
+28,10512.0,24.0,Bachelor,Incheon,Engineer,641.0,16958.0,Part-time,336759.0,1.0,9.0,Good
+29,7597.0,2.0,Bachelor,Incheon,Office,,36016.0,,30514.0,5.0,27.0,Average
+27,11008.0,32.0,Bachelor,Daegu,Engineer,487.0,18232.0,Full-time,67456.0,7.0,24.0,Average
+49,8899.0,3.0,Bachelor,Daegu,Business,463.0,11748.0,Part-time,27233.0,4.0,18.0,Poor
+33,6909.0,24.0,Bachelor,,Office,841.0,11514.0,Full-time,283246.0,2.0,2.0,Excellent
+25,8444.0,19.0,High School,Daegu,Engineer,796.0,23738.0,Part-time,86133.0,1.0,3.0,Excellent
+55,1916.0,33.0,Master,Busan,Business,759.0,9695.0,Part-time,328859.0,3.0,10.0,Excellent
+29,4233.0,25.0,Bachelor,Gwangju,Business,835.0,9070.0,Full-time,498409.0,7.0,14.0,Excellent
+41,7263.0,,Master,Gwangju,Teacher,658.0,28765.0,Full-time,392689.0,6.0,0.0,Average
+45,2383.0,34.0,Bachelor,Busan,Business,806.0,42662.0,Self-employed,124085.0,6.0,8.0,Excellent
+25,10386.0,27.0,Bachelor,Gwangju,Engineer,538.0,31761.0,Full-time,129101.0,5.0,10.0,Average
+45,5588.0,28.0,High School,Seoul,Office,505.0,17698.0,Full-time,419472.0,5.0,18.0,Poor
+53,5967.0,8.0,PhD,Busan,Teacher,543.0,16123.0,Self-employed,128684.0,1.0,12.0,Poor
+43,10265.0,5.0,PhD,Daegu,Business,542.0,36144.0,Full-time,346944.0,4.0,25.0,Poor
+25,3189.0,18.0,High School,Busan,Business,789.0,26616.0,Full-time,114937.0,3.0,15.0,Good
+45,10157.0,10.0,Master,Incheon,Business,534.0,38146.0,Self-employed,61548.0,1.0,3.0,Poor
+45,11559.0,1.0,PhD,Daegu,Engineer,694.0,12182.0,Full-time,485306.0,4.0,0.0,Good
+54,7954.0,8.0,High School,Incheon,Teacher,471.0,25833.0,Full-time,229272.0,7.0,,Poor
+58,7220.0,20.0,High School,Daegu,Engineer,740.0,34342.0,Self-employed,455583.0,5.0,12.0,Good
+53,10720.0,23.0,PhD,Gwangju,Teacher,721.0,32331.0,Self-employed,410989.0,6.0,0.0,Excellent
+44,3843.0,33.0,Master,Busan,Office,755.0,47098.0,Part-time,133815.0,2.0,4.0,Excellent
+34,5997.0,21.0,High School,Seoul,Engineer,571.0,27128.0,Full-time,240994.0,7.0,4.0,Average
+26,5296.0,2.0,Bachelor,Daegu,Engineer,577.0,32556.0,,483598.0,6.0,13.0,Poor
+50,2578.0,11.0,Master,Daegu,Office,562.0,22969.0,Part-time,147602.0,3.0,26.0,Poor
+37,2013.0,27.0,Master,Incheon,Teacher,722.0,22876.0,Self-employed,146270.0,3.0,22.0,Good
+30,5562.0,29.0,,Gwangju,Business,785.0,9949.0,Full-time,408464.0,6.0,13.0,Excellent
+45,11568.0,25.0,PhD,Incheon,Office,579.0,,Full-time,439421.0,7.0,7.0,Average
+46,8531.0,20.0,Bachelor,Incheon,Business,581.0,6670.0,Self-employed,307714.0,6.0,3.0,Average
+30,4917.0,27.0,High School,Gwangju,Business,534.0,25099.0,Part-time,,4.0,6.0,Poor
+63,7591.0,25.0,,Seoul,Office,799.0,40335.0,Self-employed,41182.0,1.0,19.0,Excellent
+52,10583.0,32.0,PhD,Incheon,Teacher,839.0,13716.0,Full-time,321517.0,5.0,18.0,Excellent
+23,4520.0,20.0,Master,Incheon,Business,530.0,39885.0,Self-employed,325163.0,4.0,14.0,Poor
+35,10705.0,34.0,PhD,Daegu,Office,774.0,8837.0,Full-time,213691.0,2.0,21.0,Excellent
+22,10927.0,,PhD,Gwangju,Engineer,518.0,48299.0,Part-time,298187.0,6.0,3.0,Average
+64,7847.0,17.0,PhD,Busan,Engineer,,20159.0,Full-time,458748.0,2.0,29.0,Average
+42,9832.0,10.0,,Seoul,Engineer,465.0,42266.0,Part-time,252362.0,2.0,18.0,Poor
+19,1801.0,22.0,Master,Seoul,Office,756.0,37877.0,Part-time,217008.0,4.0,8.0,Good
+27,8168.0,21.0,Bachelor,Gwangju,Engineer,554.0,22560.0,Full-time,301383.0,5.0,20.0,Average
+47,3749.0,16.0,Bachelor,Daegu,Business,,18106.0,Full-time,161488.0,7.0,12.0,Average
+62,8532.0,4.0,High School,Daegu,Engineer,650.0,47289.0,Part-time,154484.0,3.0,,Average
+22,9633.0,10.0,PhD,Gwangju,Engineer,646.0,9720.0,Self-employed,364120.0,1.0,22.0,Average
+50,2717.0,29.0,Master,Daegu,Business,634.0,38661.0,Full-time,44406.0,3.0,27.0,Average
+18,4974.0,14.0,High School,Seoul,Engineer,771.0,,Part-time,284019.0,5.0,13.0,Good
+35,8814.0,26.0,High School,Seoul,,714.0,29258.0,Part-time,450282.0,3.0,21.0,Excellent
+49,,34.0,Bachelor,Busan,Engineer,812.0,22782.0,Self-employed,418968.0,6.0,9.0,Excellent
+64,3509.0,32.0,Master,Gwangju,Business,549.0,42168.0,Full-time,499969.0,6.0,15.0,Average
+28,4841.0,19.0,Master,Incheon,Engineer,791.0,22120.0,Part-time,229097.0,4.0,4.0,Excellent
+38,1905.0,15.0,Master,Incheon,Business,769.0,20790.0,Self-employed,414569.0,2.0,22.0,Good
+43,10878.0,33.0,Bachelor,Busan,Office,663.0,28912.0,Part-time,178058.0,5.0,26.0,Excellent
+42,10419.0,1.0,Bachelor,Busan,Business,727.0,48374.0,Full-time,296835.0,5.0,5.0,Average
+39,3695.0,34.0,Bachelor,Daegu,Engineer,611.0,43907.0,Self-employed,220919.0,3.0,25.0,Average
+44,7890.0,27.0,Bachelor,Busan,Engineer,606.0,35812.0,Part-time,330219.0,4.0,,Average
+30,10308.0,5.0,Bachelor,Busan,Teacher,700.0,37160.0,Self-employed,30794.0,3.0,12.0,Average
+50,7882.0,8.0,PhD,Incheon,Business,815.0,20156.0,Full-time,219542.0,3.0,28.0,Excellent
+51,2434.0,19.0,PhD,Daegu,,546.0,11672.0,Self-employed,167478.0,5.0,12.0,Poor
+58,3725.0,0.0,Master,Busan,Business,467.0,15444.0,Full-time,358074.0,3.0,18.0,Poor
+52,3856.0,7.0,High School,Busan,Business,,7784.0,Part-time,266969.0,2.0,17.0,Good
+18,8717.0,22.0,,,Office,832.0,18929.0,Full-time,440088.0,3.0,27.0,Excellent
+38,4944.0,2.0,High School,Gwangju,Business,546.0,2070.0,Part-time,61708.0,2.0,18.0,Poor
+23,11431.0,3.0,Bachelor,Daegu,Office,450.0,23906.0,Part-time,397636.0,5.0,0.0,Poor
+45,2352.0,24.0,High School,Incheon,Office,665.0,35618.0,Full-time,388773.0,4.0,7.0,Average
+34,10707.0,14.0,Master,Gwangju,Business,581.0,46158.0,Part-time,434016.0,6.0,21.0,Average
+22,7183.0,20.0,Master,Seoul,Business,709.0,3939.0,Self-employed,,2.0,15.0,Good
+48,5711.0,34.0,High School,Daegu,Engineer,,30841.0,Part-time,143313.0,4.0,28.0,Average
+22,11705.0,13.0,PhD,Incheon,Engineer,,43863.0,Full-time,451125.0,4.0,1.0,Poor
+55,5189.0,11.0,Bachelor,Gwangju,Teacher,732.0,17301.0,Self-employed,303496.0,2.0,7.0,Good
+20,11099.0,16.0,Bachelor,Daegu,Teacher,620.0,8194.0,Self-employed,384119.0,5.0,5.0,Good
+40,10242.0,8.0,Master,Busan,Business,508.0,6851.0,Part-time,375992.0,1.0,15.0,Poor
+54,4230.0,34.0,,Daegu,Office,,17378.0,Part-time,256668.0,4.0,22.0,Poor
+54,2258.0,12.0,High School,Seoul,Teacher,610.0,1678.0,Full-time,428654.0,4.0,10.0,Poor
+27,2007.0,14.0,Bachelor,Daegu,Business,733.0,31640.0,Self-employed,327143.0,5.0,16.0,Average
+27,2699.0,17.0,PhD,Gwangju,Teacher,555.0,34756.0,Full-time,38482.0,,22.0,Poor
+36,1821.0,32.0,Bachelor,Gwangju,Office,554.0,30777.0,Part-time,183543.0,3.0,18.0,Average
+34,10401.0,5.0,PhD,Daegu,Business,677.0,27183.0,Self-employed,329423.0,5.0,10.0,Average
+38,2694.0,26.0,PhD,Gwangju,Office,637.0,28445.0,Full-time,391557.0,4.0,27.0,Average
+31,2314.0,22.0,Master,Busan,,519.0,2502.0,Full-time,74213.0,2.0,7.0,Poor
+26,9094.0,26.0,Bachelor,Daegu,Teacher,767.0,22665.0,Full-time,396053.0,1.0,21.0,Excellent
+63,6704.0,33.0,High School,Busan,Engineer,739.0,17198.0,Full-time,295170.0,7.0,3.0,Excellent
+18,9667.0,13.0,Master,Busan,,536.0,22411.0,Full-time,258697.0,3.0,10.0,Poor
+62,5909.0,7.0,Master,Incheon,Teacher,819.0,16867.0,Self-employed,367328.0,7.0,7.0,Good
+30,8979.0,34.0,High School,Daegu,Engineer,811.0,15266.0,Full-time,25435.0,2.0,8.0,Excellent
+21,,18.0,Master,Gwangju,Engineer,,40422.0,Self-employed,159565.0,1.0,25.0,Poor
+18,3066.0,29.0,PhD,Busan,Business,562.0,36208.0,Full-time,223299.0,1.0,1.0,Average
+57,5438.0,13.0,PhD,Incheon,,462.0,44002.0,Part-time,341465.0,1.0,15.0,Poor
+49,10741.0,19.0,Bachelor,Daegu,Office,467.0,32213.0,Part-time,415979.0,6.0,5.0,Poor
+51,5227.0,24.0,Bachelor,Daegu,Office,631.0,8367.0,Full-time,302533.0,2.0,20.0,Average
+45,6580.0,,High School,Seoul,Teacher,562.0,14490.0,Part-time,,3.0,20.0,Average
+48,3727.0,13.0,Bachelor,Seoul,Engineer,678.0,36362.0,Self-employed,345899.0,3.0,25.0,Average
+25,4156.0,25.0,PhD,Busan,Office,620.0,39285.0,Full-time,383689.0,1.0,26.0,Average
+56,6590.0,22.0,High School,Seoul,Teacher,744.0,10219.0,Self-employed,55825.0,2.0,18.0,Excellent
+43,2106.0,21.0,High School,Busan,Engineer,638.0,7310.0,Full-time,299078.0,6.0,27.0,Average
+51,9779.0,18.0,Bachelor,Gwangju,Business,528.0,37307.0,Part-time,25574.0,1.0,7.0,Poor
+20,5465.0,2.0,PhD,Busan,Teacher,595.0,30631.0,Self-employed,150698.0,5.0,13.0,Poor
+29,,18.0,High School,Seoul,Business,631.0,15744.0,Part-time,189251.0,7.0,23.0,Good
+18,8857.0,8.0,PhD,Gwangju,Office,735.0,20867.0,Part-time,414803.0,3.0,15.0,Good
+61,2461.0,27.0,PhD,Seoul,Office,699.0,19625.0,Full-time,62782.0,7.0,11.0,Good
+22,6444.0,19.0,PhD,Busan,Engineer,803.0,7378.0,,467628.0,4.0,4.0,Excellent
+47,10303.0,6.0,Bachelor,Incheon,Teacher,763.0,20149.0,,80561.0,1.0,23.0,Good
+47,4720.0,13.0,Master,Daegu,Business,,43133.0,Full-time,490440.0,5.0,25.0,Average
+34,11074.0,,Master,Seoul,Engineer,772.0,12422.0,Full-time,417625.0,3.0,23.0,Excellent
+64,10746.0,18.0,High School,Busan,Office,520.0,28926.0,Full-time,409303.0,7.0,18.0,Poor
+40,8036.0,13.0,PhD,Gwangju,Office,697.0,38679.0,Part-time,484535.0,,17.0,Good
+32,7878.0,16.0,Bachelor,Seoul,Teacher,595.0,34171.0,Full-time,46751.0,2.0,8.0,Average
+54,2152.0,29.0,PhD,Seoul,Business,555.0,14180.0,Self-employed,320318.0,3.0,1.0,Average
+38,10894.0,8.0,PhD,Daegu,Teacher,712.0,28301.0,Self-employed,404822.0,7.0,24.0,Good
+31,8805.0,32.0,Bachelor,Busan,Business,745.0,37931.0,Part-time,76572.0,2.0,19.0,Excellent
+19,1958.0,24.0,Master,Incheon,Business,519.0,25014.0,Self-employed,343560.0,7.0,11.0,Poor
+28,11969.0,13.0,PhD,Gwangju,Teacher,642.0,31936.0,Full-time,425257.0,2.0,28.0,Average
+56,2756.0,10.0,PhD,Busan,Engineer,517.0,15336.0,Part-time,436443.0,6.0,1.0,Poor
+55,3871.0,,Master,Gwangju,Teacher,754.0,23200.0,Full-time,317345.0,6.0,9.0,Excellent
+51,10395.0,13.0,Bachelor,Seoul,Teacher,501.0,6470.0,Part-time,56069.0,1.0,0.0,Poor
+55,11379.0,29.0,High School,Daegu,Office,819.0,31859.0,Part-time,233262.0,1.0,3.0,Excellent
+51,5253.0,3.0,Master,Daegu,,812.0,15953.0,Full-time,308514.0,3.0,24.0,Good
+35,8475.0,3.0,High School,Incheon,Teacher,734.0,40044.0,Self-employed,246090.0,6.0,11.0,Average
+47,2755.0,27.0,High School,Daegu,Teacher,783.0,39507.0,Self-employed,407486.0,5.0,8.0,Excellent
+32,8095.0,7.0,,Seoul,Office,458.0,28433.0,Part-time,278245.0,7.0,3.0,Poor
+44,3512.0,1.0,PhD,Incheon,Business,700.0,26957.0,Full-time,424802.0,7.0,8.0,Average
+51,6503.0,21.0,,Busan,Teacher,781.0,7523.0,Full-time,201303.0,7.0,27.0,Excellent
+55,,15.0,High School,Daegu,Engineer,747.0,22387.0,Part-time,407902.0,3.0,5.0,Good
+50,11265.0,28.0,Bachelor,Incheon,Engineer,633.0,48761.0,Self-employed,418538.0,7.0,0.0,Good
+41,7431.0,29.0,PhD,Seoul,Engineer,628.0,32169.0,Full-time,347438.0,4.0,9.0,Good
+32,11433.0,11.0,High School,Gwangju,Teacher,647.0,46641.0,Self-employed,99468.0,2.0,28.0,Average
+47,11789.0,34.0,Bachelor,Gwangju,Business,577.0,23990.0,Self-employed,180371.0,7.0,13.0,Good
+59,3194.0,10.0,PhD,Seoul,Business,469.0,30661.0,Part-time,110715.0,2.0,21.0,Poor
+34,11261.0,20.0,Master,Seoul,Office,777.0,14419.0,Part-time,90793.0,1.0,24.0,Excellent
+22,6532.0,20.0,Master,Gwangju,Teacher,514.0,15457.0,Self-employed,459717.0,7.0,28.0,Poor
+46,5514.0,4.0,Bachelor,Incheon,Business,631.0,3064.0,Full-time,,5.0,17.0,Average
+21,2329.0,19.0,Master,Gwangju,Teacher,690.0,39083.0,Full-time,131672.0,6.0,5.0,Average
+27,4758.0,2.0,High School,Seoul,Office,818.0,11566.0,Part-time,422993.0,6.0,17.0,Good
+34,9704.0,32.0,PhD,Daegu,Office,473.0,34085.0,Self-employed,162321.0,1.0,19.0,Poor
+27,5391.0,8.0,High School,Busan,Office,833.0,32528.0,Full-time,140902.0,4.0,15.0,Good
+34,8695.0,8.0,High School,Daegu,Engineer,532.0,,Full-time,41390.0,3.0,14.0,Poor
+37,10931.0,3.0,Master,Daegu,Teacher,768.0,41187.0,Part-time,40369.0,3.0,15.0,Good
+41,2325.0,34.0,High School,Seoul,Office,634.0,3042.0,Self-employed,163953.0,5.0,7.0,Good
+22,8277.0,16.0,Master,Gwangju,Teacher,765.0,5598.0,Full-time,291731.0,1.0,12.0,Excellent
+51,1801.0,33.0,PhD,Incheon,,548.0,43982.0,Part-time,244872.0,1.0,22.0,Poor
+23,2174.0,23.0,PhD,Daegu,,511.0,33886.0,Full-time,487543.0,4.0,10.0,Poor
+19,6448.0,31.0,High School,Gwangju,Office,735.0,,Full-time,389153.0,7.0,27.0,Excellent
+30,4165.0,0.0,Bachelor,Incheon,Office,471.0,,Full-time,258634.0,3.0,28.0,Poor
+60,3325.0,7.0,Master,Daegu,Business,661.0,29716.0,Part-time,421049.0,7.0,24.0,Poor
+60,3446.0,22.0,Master,Incheon,Teacher,575.0,13601.0,Self-employed,67013.0,1.0,6.0,Average
+28,,11.0,High School,,Office,491.0,37018.0,Part-time,137341.0,7.0,16.0,Poor
+64,6399.0,11.0,Master,Busan,Business,547.0,,Self-employed,409929.0,6.0,17.0,Poor
+40,4078.0,14.0,Master,Gwangju,Teacher,480.0,9609.0,Full-time,,5.0,21.0,Poor
+33,4955.0,18.0,Bachelor,Seoul,Office,607.0,36371.0,Self-employed,166826.0,3.0,22.0,Average
+48,10121.0,25.0,Bachelor,Incheon,Business,561.0,45814.0,Full-time,127584.0,4.0,18.0,Average
+28,5614.0,28.0,High School,Busan,Business,696.0,18485.0,Full-time,98113.0,5.0,24.0,Good
+33,5016.0,21.0,Bachelor,Incheon,Teacher,571.0,21805.0,Part-time,368928.0,2.0,12.0,Average
+25,10019.0,20.0,High School,Incheon,Business,722.0,8857.0,Full-time,55282.0,,14.0,Excellent
+21,3913.0,19.0,PhD,Daegu,Teacher,,12620.0,Part-time,187809.0,4.0,22.0,Good
+57,11244.0,28.0,High School,Seoul,Teacher,847.0,9177.0,Self-employed,,5.0,29.0,Excellent
+21,6156.0,3.0,PhD,Incheon,Teacher,656.0,31111.0,Self-employed,352246.0,1.0,21.0,Average
+42,7343.0,6.0,High School,Gwangju,Engineer,559.0,24042.0,Full-time,415412.0,2.0,28.0,Poor
+20,6355.0,27.0,Master,Gwangju,Business,727.0,19645.0,Part-time,343671.0,4.0,21.0,Excellent
+49,8862.0,27.0,Bachelor,Daegu,Teacher,505.0,25405.0,Full-time,412515.0,1.0,,Average
+20,5174.0,3.0,PhD,Seoul,Office,824.0,,Part-time,413086.0,6.0,28.0,Good
+44,8230.0,21.0,High School,Seoul,,506.0,14890.0,Part-time,116651.0,2.0,,Poor
+46,5266.0,11.0,Bachelor,Gwangju,Engineer,740.0,17892.0,Part-time,266549.0,3.0,4.0,Good
+49,4881.0,2.0,High School,Busan,Business,563.0,47598.0,Self-employed,105395.0,1.0,25.0,Poor
+36,2429.0,21.0,Bachelor,Daegu,Teacher,830.0,10484.0,Part-time,31345.0,5.0,2.0,Excellent
+38,2069.0,1.0,Bachelor,Daegu,Business,834.0,6495.0,Self-employed,406688.0,,22.0,Good
+22,11985.0,23.0,High School,Gwangju,Engineer,757.0,29481.0,Part-time,316221.0,4.0,9.0,Excellent
+35,7524.0,33.0,PhD,Gwangju,Teacher,790.0,12267.0,Self-employed,412573.0,2.0,18.0,Excellent
+45,7697.0,26.0,PhD,Busan,Office,647.0,41166.0,Self-employed,217472.0,1.0,4.0,Good
+59,5232.0,0.0,Master,Busan,Teacher,770.0,,Self-employed,32055.0,3.0,6.0,Good
+39,11272.0,7.0,Bachelor,Seoul,Engineer,628.0,38939.0,,385837.0,7.0,13.0,Average
+38,8076.0,22.0,Master,Daegu,Office,834.0,49773.0,Part-time,,4.0,2.0,Excellent
+23,7695.0,5.0,Master,Daegu,Teacher,668.0,27569.0,Full-time,64484.0,4.0,12.0,Average
+18,8915.0,21.0,High School,Gwangju,Office,726.0,29552.0,Part-time,97514.0,1.0,12.0,Good
+22,8456.0,24.0,High School,Seoul,Office,465.0,46772.0,Part-time,110135.0,3.0,9.0,Poor
+58,2375.0,17.0,High School,Daegu,Engineer,828.0,44730.0,Full-time,317915.0,,1.0,Good
+29,8829.0,16.0,,Seoul,Office,510.0,29948.0,Self-employed,208726.0,7.0,,Poor
+43,7899.0,,High School,Seoul,Business,503.0,11775.0,Part-time,459756.0,6.0,,Poor
+63,11299.0,5.0,High School,Gwangju,Engineer,617.0,4557.0,Self-employed,234223.0,2.0,3.0,Average
+51,4992.0,25.0,Bachelor,Seoul,Business,475.0,4587.0,Full-time,392428.0,1.0,24.0,Poor
+31,4978.0,26.0,Bachelor,Busan,Office,785.0,17535.0,Self-employed,137399.0,7.0,11.0,Excellent
+43,7852.0,7.0,PhD,Busan,Business,514.0,1954.0,Part-time,387029.0,2.0,27.0,Poor
+62,,18.0,High School,Incheon,Teacher,549.0,47562.0,Part-time,442593.0,6.0,14.0,Poor
+44,7916.0,0.0,High School,Gwangju,Office,523.0,24544.0,Part-time,200645.0,7.0,7.0,Poor
+26,5368.0,28.0,High School,Incheon,Teacher,641.0,34455.0,Full-time,,4.0,6.0,Good
+43,11647.0,34.0,PhD,Busan,Business,620.0,42269.0,Part-time,149344.0,2.0,13.0,Good
+64,11571.0,13.0,High School,Incheon,Teacher,,16138.0,Full-time,162832.0,3.0,22.0,Good
+39,4003.0,34.0,PhD,,Office,826.0,43462.0,Self-employed,133226.0,5.0,18.0,Excellent
+64,3190.0,19.0,Master,Gwangju,Teacher,636.0,4127.0,Part-time,119250.0,6.0,13.0,Average
+47,3542.0,12.0,PhD,Seoul,Business,472.0,24147.0,Part-time,307906.0,6.0,21.0,Poor
+60,3725.0,7.0,Master,Daegu,Business,840.0,46528.0,Part-time,202058.0,3.0,12.0,Good
+34,2419.0,19.0,High School,Seoul,Business,630.0,12559.0,Self-employed,185404.0,7.0,28.0,Average
+43,3074.0,32.0,Master,Gwangju,Office,776.0,48564.0,Part-time,191172.0,7.0,20.0,Excellent
+53,2756.0,25.0,,Busan,Business,557.0,4395.0,Full-time,156016.0,7.0,0.0,Average
+18,3739.0,20.0,Bachelor,Busan,Office,784.0,26389.0,Self-employed,68825.0,2.0,26.0,Good
+25,5753.0,8.0,Master,Seoul,Teacher,611.0,1845.0,Self-employed,33877.0,1.0,18.0,Average
+52,2768.0,23.0,Master,Gwangju,Business,751.0,34932.0,Self-employed,443206.0,4.0,28.0,Good
+32,11308.0,16.0,High School,Busan,Teacher,655.0,46722.0,Self-employed,149065.0,5.0,27.0,Good
+64,11035.0,23.0,PhD,Gwangju,Engineer,527.0,39672.0,Self-employed,128443.0,1.0,0.0,Average
+39,2081.0,20.0,Master,Busan,Teacher,465.0,14731.0,,381756.0,1.0,3.0,Poor
+31,8062.0,12.0,Master,Gwangju,Engineer,,34122.0,Self-employed,137674.0,3.0,9.0,Good
+43,2858.0,10.0,Master,Incheon,Teacher,545.0,36585.0,Part-time,135074.0,2.0,2.0,Poor
+45,6093.0,18.0,Master,Gwangju,,596.0,4832.0,Self-employed,468499.0,6.0,26.0,Average
+40,6978.0,10.0,Bachelor,Gwangju,Teacher,451.0,33332.0,Self-employed,416474.0,6.0,19.0,Poor
+31,8780.0,12.0,PhD,Seoul,Office,459.0,13467.0,Self-employed,271881.0,3.0,8.0,Poor
+41,11000.0,0.0,High School,Incheon,Office,574.0,42025.0,Self-employed,51629.0,2.0,2.0,Poor
+19,,18.0,High School,Daegu,Business,,14107.0,Self-employed,450795.0,3.0,27.0,Poor
+62,11027.0,11.0,Bachelor,Seoul,Office,589.0,13458.0,Full-time,174030.0,6.0,5.0,Average
+43,6385.0,7.0,PhD,Daegu,Engineer,,29666.0,Full-time,452681.0,1.0,5.0,Good
+31,10267.0,7.0,Master,Busan,Business,,44481.0,Self-employed,499069.0,4.0,22.0,Poor
+24,4540.0,11.0,Bachelor,Daegu,Business,737.0,3581.0,Full-time,297919.0,7.0,24.0,Good
+20,4089.0,32.0,PhD,Gwangju,Teacher,810.0,10582.0,Part-time,489791.0,2.0,11.0,Excellent
+64,3039.0,25.0,Master,Daegu,Office,789.0,9418.0,Self-employed,185279.0,5.0,22.0,Excellent
+40,,27.0,Bachelor,Seoul,Office,578.0,29091.0,Part-time,435769.0,5.0,29.0,Average
+63,1925.0,4.0,,Seoul,Engineer,688.0,30113.0,Part-time,466848.0,1.0,0.0,Poor
+60,9273.0,7.0,High School,Daegu,Teacher,507.0,19827.0,Self-employed,282199.0,3.0,15.0,Poor
+64,11200.0,24.0,High School,Seoul,Teacher,647.0,15419.0,Part-time,269084.0,3.0,23.0,Good
+62,7142.0,26.0,PhD,Seoul,Business,660.0,12814.0,Part-time,108697.0,6.0,4.0,Good
+35,9151.0,22.0,High School,Daegu,Business,839.0,34804.0,Part-time,183945.0,1.0,8.0,Excellent
+55,8438.0,29.0,PhD,Incheon,Business,494.0,11024.0,Self-employed,121505.0,6.0,9.0,Average
+52,8370.0,22.0,Master,Incheon,Engineer,,44700.0,Self-employed,362864.0,6.0,12.0,Poor
+32,5049.0,19.0,PhD,Busan,Engineer,,8435.0,Part-time,217277.0,5.0,14.0,Good
+42,10910.0,17.0,Master,Seoul,Business,472.0,2548.0,Self-employed,360343.0,6.0,11.0,Poor
+54,9395.0,17.0,Bachelor,Daegu,Teacher,840.0,6065.0,Self-employed,176390.0,7.0,4.0,Excellent
+45,8094.0,1.0,,Seoul,Engineer,784.0,23880.0,Part-time,53734.0,6.0,4.0,Good
+27,8327.0,3.0,,Gwangju,Teacher,493.0,4407.0,Self-employed,233299.0,5.0,27.0,Poor
+56,7557.0,29.0,High School,Seoul,Teacher,476.0,,Full-time,169594.0,7.0,27.0,Poor
+34,3769.0,32.0,Master,,Office,731.0,33940.0,Self-employed,162728.0,3.0,29.0,Good
+56,2691.0,17.0,PhD,Incheon,Business,546.0,6666.0,Full-time,,2.0,17.0,Poor
+39,6270.0,18.0,Bachelor,Daegu,Office,485.0,38122.0,,298637.0,4.0,11.0,Poor
+43,8975.0,27.0,Master,Seoul,Business,558.0,26092.0,Self-employed,416848.0,6.0,,Average
+61,11356.0,19.0,Master,Incheon,Business,504.0,11109.0,Part-time,115872.0,7.0,2.0,Average
+42,10120.0,32.0,High School,Busan,Teacher,641.0,36654.0,Part-time,,2.0,25.0,Good
+34,11006.0,11.0,High School,Incheon,Business,668.0,35932.0,Part-time,189524.0,5.0,24.0,Average
+30,11791.0,14.0,Master,Incheon,Teacher,634.0,27505.0,Part-time,164338.0,2.0,6.0,Average
+37,8612.0,1.0,Master,Incheon,Teacher,,37713.0,Part-time,,4.0,16.0,Poor
+42,9319.0,28.0,PhD,Seoul,Business,766.0,44169.0,Self-employed,136603.0,2.0,18.0,Excellent
+21,6412.0,9.0,Master,Seoul,Teacher,579.0,8746.0,Full-time,343751.0,7.0,27.0,Poor
+27,11510.0,1.0,PhD,Busan,Teacher,504.0,12975.0,Self-employed,36940.0,2.0,17.0,Poor
+20,2998.0,10.0,Master,Gwangju,Teacher,827.0,41522.0,Self-employed,175075.0,2.0,0.0,Good
+58,7038.0,12.0,High School,Gwangju,Engineer,546.0,16596.0,Self-employed,147880.0,2.0,24.0,Poor
+62,7889.0,9.0,PhD,Gwangju,Teacher,785.0,38953.0,Self-employed,118408.0,1.0,23.0,Good
+35,8057.0,13.0,Bachelor,Busan,Engineer,536.0,34861.0,Full-time,316959.0,6.0,4.0,Poor
+64,9505.0,17.0,High School,Gwangju,Engineer,743.0,4880.0,Self-employed,181941.0,5.0,26.0,Excellent
+53,5519.0,8.0,PhD,Gwangju,Teacher,568.0,44454.0,Part-time,69297.0,4.0,27.0,Poor
+64,2102.0,27.0,PhD,Incheon,Teacher,657.0,44539.0,Self-employed,80107.0,5.0,1.0,Average
+39,2786.0,2.0,Bachelor,Seoul,Engineer,783.0,44448.0,Self-employed,,1.0,0.0,Average
+51,11855.0,19.0,PhD,Seoul,Engineer,603.0,,Full-time,429898.0,1.0,6.0,Good
+64,6240.0,5.0,Master,Incheon,Teacher,484.0,23449.0,Full-time,39622.0,7.0,28.0,Poor
+25,6709.0,26.0,Bachelor,Incheon,Teacher,528.0,15799.0,Part-time,312552.0,1.0,10.0,Average
+57,4872.0,1.0,High School,Incheon,Business,516.0,40307.0,Self-employed,159909.0,6.0,10.0,Poor
+61,4924.0,28.0,High School,Seoul,Engineer,792.0,49784.0,Self-employed,477426.0,1.0,17.0,Excellent
+36,11319.0,2.0,Master,Gwangju,Engineer,483.0,48498.0,Self-employed,166479.0,2.0,16.0,Poor
+59,,15.0,,Incheon,Business,546.0,44333.0,Part-time,180381.0,5.0,1.0,Poor
+58,5091.0,29.0,PhD,Busan,Engineer,618.0,41828.0,Full-time,485134.0,3.0,6.0,Average
+54,5833.0,1.0,PhD,Incheon,Office,618.0,4990.0,Part-time,,4.0,6.0,Poor
+23,6905.0,16.0,Master,Daegu,Engineer,600.0,20073.0,Self-employed,432111.0,1.0,9.0,Average
+43,2503.0,11.0,High School,,Business,520.0,37863.0,Full-time,272356.0,5.0,21.0,Poor
+51,9933.0,34.0,High School,Seoul,Office,452.0,15549.0,Full-time,237984.0,7.0,20.0,Average
+62,2374.0,0.0,Master,Incheon,Teacher,763.0,19259.0,Part-time,20370.0,1.0,2.0,Average
+23,7504.0,14.0,Bachelor,Daegu,Business,481.0,20790.0,Full-time,396356.0,6.0,29.0,Poor
+54,9648.0,25.0,High School,Busan,Business,736.0,10979.0,Full-time,282630.0,1.0,11.0,Excellent
+50,7008.0,20.0,Bachelor,Gwangju,Teacher,531.0,21316.0,Self-employed,305906.0,1.0,2.0,Poor
+39,8724.0,30.0,High School,Incheon,Business,492.0,27183.0,Self-employed,46613.0,1.0,10.0,Average
+38,5628.0,24.0,High School,Daegu,Engineer,840.0,29324.0,Full-time,263876.0,7.0,28.0,Excellent
+23,5030.0,22.0,High School,Daegu,Teacher,554.0,25624.0,Full-time,23196.0,1.0,11.0,Poor
+23,2288.0,23.0,High School,Busan,Business,450.0,39176.0,Part-time,246009.0,4.0,24.0,Poor
+21,8914.0,27.0,PhD,Seoul,Teacher,510.0,21245.0,Part-time,382709.0,5.0,3.0,Average
+47,11339.0,20.0,Bachelor,Incheon,Teacher,719.0,47705.0,Full-time,358493.0,6.0,24.0,Good
+28,4973.0,17.0,Bachelor,Daegu,Teacher,629.0,24790.0,Self-employed,346983.0,,15.0,Average
+47,3467.0,34.0,High School,Busan,Office,673.0,27756.0,Full-time,455132.0,1.0,19.0,Good
+48,11629.0,8.0,High School,Gwangju,Business,455.0,3833.0,Full-time,,1.0,17.0,Poor
+41,5914.0,29.0,Bachelor,Daegu,Office,,6285.0,Self-employed,441441.0,1.0,3.0,Average
+26,5353.0,33.0,PhD,Busan,Business,,10589.0,Self-employed,65853.0,2.0,21.0,Poor
+20,9561.0,31.0,Master,Seoul,,520.0,48476.0,Part-time,462606.0,2.0,5.0,Average
+48,2800.0,2.0,Master,Seoul,Engineer,,15116.0,Part-time,183347.0,3.0,20.0,Poor
+57,,2.0,Bachelor,Daegu,Engineer,,8645.0,Part-time,354523.0,1.0,14.0,Average
+54,3188.0,27.0,High School,Daegu,Business,607.0,45786.0,Part-time,414321.0,3.0,0.0,Average
+53,7250.0,14.0,High School,Incheon,Teacher,677.0,,Self-employed,136074.0,4.0,2.0,Average
+41,5512.0,22.0,PhD,Busan,Teacher,575.0,11889.0,Full-time,473112.0,3.0,4.0,Average
+48,3167.0,10.0,Master,Daegu,Office,658.0,,Part-time,63209.0,5.0,21.0,Average
+23,9989.0,31.0,PhD,Incheon,Office,546.0,38545.0,Part-time,455703.0,2.0,29.0,Average
+19,10813.0,32.0,Master,Incheon,Engineer,523.0,16994.0,Self-employed,431267.0,2.0,16.0,Average
+37,2254.0,23.0,Bachelor,Daegu,Office,564.0,36503.0,Self-employed,,1.0,29.0,Poor
+45,11616.0,33.0,Master,Seoul,Business,640.0,47379.0,Full-time,,1.0,13.0,Good
+28,4572.0,27.0,PhD,Busan,Business,619.0,,Full-time,273516.0,4.0,8.0,Average
+21,5526.0,6.0,PhD,Busan,Office,756.0,40136.0,Self-employed,228472.0,6.0,29.0,Good
+32,9032.0,3.0,,Seoul,,653.0,27639.0,Part-time,120300.0,4.0,2.0,Average
+23,6606.0,0.0,Bachelor,Daegu,Office,505.0,18205.0,Part-time,218033.0,5.0,25.0,Poor
+47,3990.0,0.0,Master,Busan,Office,657.0,33930.0,Part-time,473372.0,1.0,12.0,Poor
+55,10908.0,19.0,Master,Daegu,Engineer,490.0,8777.0,Full-time,396826.0,1.0,2.0,Poor
+19,4675.0,18.0,PhD,Daegu,Engineer,481.0,29315.0,Part-time,77175.0,4.0,10.0,Poor
+32,7392.0,28.0,Master,Incheon,Office,,48617.0,Part-time,420065.0,4.0,1.0,Poor
+28,3240.0,9.0,High School,,Business,,27973.0,Self-employed,121551.0,4.0,23.0,Poor
+25,10727.0,17.0,High School,Daegu,Engineer,604.0,19316.0,Part-time,301120.0,2.0,14.0,Average
+43,7859.0,27.0,High School,Gwangju,Business,733.0,28304.0,Self-employed,412761.0,3.0,12.0,Excellent
+62,8810.0,34.0,Master,Seoul,Teacher,658.0,37303.0,Part-time,381938.0,3.0,18.0,Good
+61,8917.0,30.0,Bachelor,Busan,Business,769.0,31522.0,Full-time,266984.0,1.0,21.0,Excellent
+22,10953.0,26.0,Bachelor,Incheon,Office,,23340.0,,76866.0,2.0,15.0,Good
+23,4789.0,10.0,Bachelor,Busan,Teacher,579.0,20830.0,Part-time,137752.0,4.0,17.0,Poor
+43,11018.0,4.0,Bachelor,Busan,Engineer,576.0,14403.0,Self-employed,329222.0,1.0,6.0,Poor
+21,8028.0,7.0,High School,Seoul,Engineer,741.0,15516.0,Self-employed,,2.0,12.0,Good
+36,8271.0,33.0,,Busan,Teacher,563.0,20091.0,Self-employed,313257.0,5.0,3.0,Average
+37,4663.0,11.0,PhD,Daegu,,648.0,8959.0,Part-time,266592.0,6.0,8.0,Average
+50,11939.0,0.0,Master,Busan,Engineer,462.0,32932.0,Part-time,35401.0,2.0,29.0,Poor
+37,2977.0,30.0,Master,Incheon,Office,720.0,31554.0,Full-time,426100.0,7.0,9.0,Good
+29,6560.0,3.0,Bachelor,Incheon,Teacher,538.0,37701.0,Part-time,235432.0,1.0,8.0,Poor
+64,,4.0,High School,Gwangju,Office,664.0,4385.0,Full-time,450779.0,3.0,6.0,Poor
+18,7052.0,29.0,Bachelor,Incheon,Teacher,727.0,34690.0,Self-employed,185486.0,7.0,14.0,Excellent
+43,6199.0,23.0,PhD,Busan,Engineer,652.0,11367.0,Self-employed,167214.0,4.0,27.0,Good
+31,10034.0,2.0,Master,Incheon,Business,523.0,47505.0,Self-employed,266200.0,6.0,,Poor
+55,10935.0,10.0,Master,Seoul,Teacher,474.0,34332.0,Full-time,353636.0,5.0,18.0,Poor
+54,7245.0,3.0,Bachelor,Incheon,Teacher,550.0,20642.0,Part-time,230536.0,6.0,10.0,Poor
+28,8370.0,25.0,PhD,Daegu,Office,625.0,11789.0,Self-employed,226329.0,6.0,4.0,Good
+53,10996.0,26.0,Master,Seoul,Engineer,566.0,36268.0,Part-time,96693.0,2.0,1.0,Average
+30,,26.0,PhD,Gwangju,Office,615.0,21950.0,Part-time,55135.0,,9.0,Good
+60,2206.0,5.0,,Daegu,Engineer,490.0,,Self-employed,,1.0,15.0,Poor
+20,11006.0,14.0,Bachelor,Busan,Office,793.0,40649.0,Full-time,310006.0,6.0,22.0,Excellent
+50,6231.0,29.0,High School,Busan,Teacher,815.0,37404.0,Part-time,156262.0,4.0,12.0,Excellent
+23,11830.0,34.0,Bachelor,Busan,Office,569.0,33991.0,Self-employed,90199.0,1.0,7.0,Good
+27,7043.0,22.0,High School,Daegu,Business,,40065.0,Part-time,387510.0,6.0,8.0,Poor
+22,8342.0,,PhD,Daegu,Engineer,594.0,48663.0,Part-time,24331.0,1.0,10.0,Poor
+40,8736.0,3.0,High School,Daegu,Engineer,665.0,1350.0,Part-time,203258.0,4.0,10.0,Average
+27,10706.0,17.0,,Seoul,Teacher,678.0,19312.0,Part-time,326792.0,5.0,22.0,Good
+61,5946.0,8.0,Master,Seoul,Engineer,762.0,25127.0,Part-time,310693.0,7.0,25.0,Good
+19,1940.0,28.0,Master,Busan,Business,579.0,29853.0,Full-time,232854.0,6.0,15.0,Average
